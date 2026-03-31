@@ -1,0 +1,1854 @@
+{
+  "id": "cet6",
+  "name": "六级核心词",
+  "words": [
+    {
+      "id": "cet6_001",
+      "word": "ambiguous",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "meaning": "adj. 模棱两可的，含糊的",
+      "example": "His answer was ambiguous.",
+      "exampleTrans": "他的回答模棱两可。"
+    },
+    {
+      "id": "cet6_002",
+      "word": "apparent",
+      "phonetic": "/əˈpærənt/",
+      "meaning": "adj. 明显的，表面的",
+      "example": "It was apparent that he was lying.",
+      "exampleTrans": "很明显他在撒谎。"
+    },
+    {
+      "id": "cet6_003",
+      "word": "appropriate",
+      "phonetic": "/əˈproʊpriət/",
+      "meaning": "adj. 适当的，恰当的",
+      "example": "Casual clothes are not appropriate for the occasion.",
+      "exampleTrans": "便装不适合这个场合。"
+    },
+    {
+      "id": "cet6_004",
+      "word": "approximate",
+      "phonetic": "/əˈprɑːksɪmət/",
+      "meaning": "adj. 近似的，大约的",
+      "example": "The approximate cost will be $100.",
+      "exampleTrans": "大约的费用是100美元。"
+    },
+    {
+      "id": "cet6_005",
+      "word": "arbitrary",
+      "phonetic": "/ˈɑːrbətreri/",
+      "meaning": "adj. 任意的，武断的",
+      "example": "The choice was quite arbitrary.",
+      "exampleTrans": "这个选择相当随意。"
+    },
+    {
+      "id": "cet6_006",
+      "word": "articulate",
+      "phonetic": "/ɑːrˈtɪkjələt/",
+      "meaning": "adj. 善于表达的 v. 清晰地说",
+      "example": "She is an articulate speaker.",
+      "exampleTrans": "她是一位口才好的演讲者。"
+    },
+    {
+      "id": "cet6_007",
+      "word": "artificial",
+      "phonetic": "/ˌɑːrtɪˈfɪʃl/",
+      "meaning": "adj. 人造的，虚假的",
+      "example": "This drink contains no artificial colors.",
+      "exampleTrans": "这种饮料不含人工色素。"
+    },
+    {
+      "id": "cet6_008",
+      "word": "ascertain",
+      "phonetic": "/ˌæsərˈteɪn/",
+      "meaning": "v. 确定，查明",
+      "example": "The police are trying to ascertain the facts.",
+      "exampleTrans": "警方正试图查明事实。"
+    },
+    {
+      "id": "cet6_009",
+      "word": "aspiration",
+      "phonetic": "/ˌæspəˈreɪʃn/",
+      "meaning": "n. 抱负，渴望",
+      "example": "She has political aspirations.",
+      "exampleTrans": "她有政治抱负。"
+    },
+    {
+      "id": "cet6_010",
+      "word": "assemble",
+      "phonetic": "/əˈsembl/",
+      "meaning": "v. 集合，组装",
+      "example": "The workers assemble cars in the factory.",
+      "exampleTrans": "工人们在工厂组装汽车。"
+    },
+    {
+      "id": "cet6_011",
+      "word": "assess",
+      "phonetic": "/əˈses/",
+      "meaning": "v. 评估，估价",
+      "example": "We need to assess the damage.",
+      "exampleTrans": "我们需要评估损失。"
+    },
+    {
+      "id": "cet6_012",
+      "word": "assign",
+      "phonetic": "/əˈsaɪn/",
+      "meaning": "v. 分配，指派",
+      "example": "The teacher assigned homework.",
+      "exampleTrans": "老师布置了作业。"
+    },
+    {
+      "id": "cet6_013",
+      "word": "assist",
+      "phonetic": "/əˈsɪst/",
+      "meaning": "v. 协助，帮助",
+      "example": "He assisted me with my luggage.",
+      "exampleTrans": "他帮我拿行李。"
+    },
+    {
+      "id": "cet6_014",
+      "word": "assume",
+      "phonetic": "/əˈsuːm/",
+      "meaning": "v. 假定，承担",
+      "example": "I assume you are tired.",
+      "exampleTrans": "我猜你累了。"
+    },
+    {
+      "id": "cet6_015",
+      "word": "assure",
+      "phonetic": "/əˈʃʊr/",
+      "meaning": "v. 保证，使确信",
+      "example": "I assure you it is safe.",
+      "exampleTrans": "我向你保证这是安全的。"
+    },
+    {
+      "id": "cet6_016",
+      "word": "attach",
+      "phonetic": "/əˈtætʃ/",
+      "meaning": "v. 附加，附着",
+      "example": "Please attach a photo to your application.",
+      "exampleTrans": "请在申请表上附一张照片。"
+    },
+    {
+      "id": "cet6_017",
+      "word": "attempt",
+      "phonetic": "/əˈtempt/",
+      "meaning": "n./v. 尝试，企图",
+      "example": "He made an attempt to escape.",
+      "exampleTrans": "他试图逃跑。"
+    },
+    {
+      "id": "cet6_018",
+      "word": "attitude",
+      "phonetic": "/ˈætɪtuːd/",
+      "meaning": "n. 态度，看法",
+      "example": "Your attitude determines your success.",
+      "exampleTrans": "你的态度决定你的成功。"
+    },
+    {
+      "id": "cet6_019",
+      "word": "attribute",
+      "phonetic": "/əˈtrɪbjuːt/",
+      "meaning": "v. 归因于 n. 属性",
+      "example": "She attributes her success to hard work.",
+      "exampleTrans": "她把成功归因于努力工作。"
+    },
+    {
+      "id": "cet6_020",
+      "word": "authentic",
+      "phonetic": "/ɔːˈθentɪk/",
+      "meaning": "adj. 真正的，真实的",
+      "example": "Is this painting authentic?",
+      "exampleTrans": "这幅画是真迹吗？"
+    },
+    {
+      "id": "cet6_021",
+      "word": "appendix",
+      "phonetic": "/əˈpendɪks/",
+      "meaning": "n. 附录，阑尾",
+      "example": "Refer to Appendix A for more details.",
+      "exampleTrans": "更多详情请参见附录A。"
+    },
+    {
+      "id": "cet6_022",
+      "word": "appetite",
+      "phonetic": "/ˈæpɪtaɪt/",
+      "meaning": "n. 食欲，胃口",
+      "example": "The baby has a healthy appetite.",
+      "exampleTrans": "这个婴儿胃口很好。"
+    },
+    {
+      "id": "cet6_023",
+      "word": "applaud",
+      "phonetic": "/əˈplɔːd/",
+      "meaning": "v. 鼓掌，称赞",
+      "example": "The audience applauded loudly.",
+      "exampleTrans": "观众热烈鼓掌。"
+    },
+    {
+      "id": "cet6_024",
+      "word": "appliance",
+      "phonetic": "/əˈplaɪəns/",
+      "meaning": "n. 电器，用具",
+      "example": "We sell home appliances.",
+      "exampleTrans": "我们销售家用电器。"
+    },
+    {
+      "id": "cet6_025",
+      "word": "applicable",
+      "phonetic": "/əˈplɪkəbl/",
+      "meaning": "adj. 适用的，合适的",
+      "example": "This rule is applicable to everyone.",
+      "exampleTrans": "这条规则适用于所有人。"
+    },
+    {
+      "id": "cet6_026",
+      "word": "applicant",
+      "phonetic": "/ˈæplɪkənt/",
+      "meaning": "n. 申请人",
+      "example": "There were over 100 applicants for the job.",
+      "exampleTrans": "这份工作有100多名申请人。"
+    },
+    {
+      "id": "cet6_027",
+      "word": "appoint",
+      "phonetic": "/əˈpɔɪnt/",
+      "meaning": "v. 任命，约定",
+      "example": "They appointed him as manager.",
+      "exampleTrans": "他们任命他为经理。"
+    },
+    {
+      "id": "cet6_028",
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meaning": "v. 欣赏，感激",
+      "example": "I really appreciate your help.",
+      "exampleTrans": "我非常感激你的帮助。"
+    },
+    {
+      "id": "cet6_029",
+      "word": "approach",
+      "phonetic": "/əˈproʊtʃ/",
+      "meaning": "v. 接近 n. 方法",
+      "example": "The train is approaching the station.",
+      "exampleTrans": "火车正在接近车站。"
+    },
+    {
+      "id": "cet6_030",
+      "word": "appropriate",
+      "phonetic": "/əˈproʊpriət/",
+      "meaning": "adj. 适当的",
+      "example": "Please wear appropriate clothing.",
+      "exampleTrans": "请穿合适的服装。"
+    },
+    {
+      "id": "cet6_031",
+      "word": "approve",
+      "phonetic": "/əˈpruːv/",
+      "meaning": "v. 批准，赞成",
+      "example": "The committee approved the plan.",
+      "exampleTrans": "委员会批准了这个计划。"
+    },
+    {
+      "id": "cet6_032",
+      "word": "approximate",
+      "phonetic": "/əˈprɑːksɪmət/",
+      "meaning": "adj. 近似的 v. 接近",
+      "example": "The approximate cost is 100 dollars.",
+      "exampleTrans": "大约的费用是100美元。"
+    },
+    {
+      "id": "cet6_033",
+      "word": "arbitrary",
+      "phonetic": "/ˈɑːrbətreri/",
+      "meaning": "adj. 任意的，武断的",
+      "example": "The decision seemed arbitrary.",
+      "exampleTrans": "这个决定似乎很武断。"
+    },
+    {
+      "id": "cet6_034",
+      "word": "architect",
+      "phonetic": "/ˈɑːrkɪtekt/",
+      "meaning": "n. 建筑师",
+      "example": "The architect designed a beautiful building.",
+      "exampleTrans": "建筑师设计了一座漂亮的建筑。"
+    },
+    {
+      "id": "cet6_035",
+      "word": "arithmetic",
+      "phonetic": "/əˈrɪθmətɪk/",
+      "meaning": "n. 算术",
+      "example": "He is good at arithmetic.",
+      "exampleTrans": "他擅长算术。"
+    },
+    {
+      "id": "cet6_036",
+      "word": "arouse",
+      "phonetic": "/əˈraʊz/",
+      "meaning": "v. 唤醒，激起",
+      "example": "Her curiosity was aroused.",
+      "exampleTrans": "她的好奇心被激起了。"
+    },
+    {
+      "id": "cet6_037",
+      "word": "arrange",
+      "phonetic": "/əˈreɪndʒ/",
+      "meaning": "v. 安排，整理",
+      "example": "I will arrange a meeting.",
+      "exampleTrans": "我会安排一次会议。"
+    },
+    {
+      "id": "cet6_038",
+      "word": "array",
+      "phonetic": "/əˈreɪ/",
+      "meaning": "n. 数组，一系列",
+      "example": "The store offers a wide array of products.",
+      "exampleTrans": "这家商店提供各种各样的产品。"
+    },
+    {
+      "id": "cet6_039",
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meaning": "v. 逮捕 n. 逮捕",
+      "example": "The police arrested the suspect.",
+      "exampleTrans": "警察逮捕了嫌疑人。"
+    },
+    {
+      "id": "cet6_040",
+      "word": "arrogant",
+      "phonetic": "/ˈærəɡənt/",
+      "meaning": "adj. 傲慢的",
+      "example": "His arrogant attitude annoyed everyone.",
+      "exampleTrans": "他傲慢的态度惹恼了所有人。"
+    },
+    {
+      "id": "cet6_041",
+      "word": "advocate",
+      "phonetic": "/ˈædvəkeɪt/",
+      "meaning": "v. 提倡，主张 n. 倡导者",
+      "example": "He advocates for environmental protection.",
+      "exampleTrans": "他提倡环境保护。"
+    },
+    {
+      "id": "cet6_042",
+      "word": "alleviate",
+      "phonetic": "/əˈliːvieɪt/",
+      "meaning": "v. 减轻，缓解",
+      "example": "Medicine can alleviate the pain.",
+      "exampleTrans": "药物可以缓解疼痛。"
+    },
+    {
+      "id": "cet6_043",
+      "word": "amplify",
+      "phonetic": "/ˈæmplɪfaɪ/",
+      "meaning": "v. 放大，增强",
+      "example": "The speaker amplifies his voice.",
+      "exampleTrans": "扬声器放大了他的声音。"
+    },
+    {
+      "id": "cet6_044",
+      "word": "analyze",
+      "phonetic": "/ˈænəlaɪz/",
+      "meaning": "v. 分析，解析",
+      "example": "We need to analyze the data carefully.",
+      "exampleTrans": "我们需要仔细分析数据。"
+    },
+    {
+      "id": "cet6_045",
+      "word": "anticipate",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "meaning": "v. 预期，预料",
+      "example": "We anticipate a good result.",
+      "exampleTrans": "我们预期会有好结果。"
+    },
+    {
+      "id": "cet6_046",
+      "word": "assert",
+      "phonetic": "/əˈsɜːrt/",
+      "meaning": "v. 断言，坚持",
+      "example": "He asserted his innocence.",
+      "exampleTrans": "他坚称自己无罪。"
+    },
+    {
+      "id": "cet6_047",
+      "word": "assimilate",
+      "phonetic": "/əˈsɪməleɪt/",
+      "meaning": "v. 吸收，同化",
+      "example": "Immigrants assimilate into the new culture.",
+      "exampleTrans": "移民同化到新的文化中。"
+    },
+    {
+      "id": "cet6_048",
+      "word": "augment",
+      "phonetic": "/ɔːɡˈment/",
+      "meaning": "v. 增加，扩大",
+      "example": "We need to augment our resources.",
+      "exampleTrans": "我们需要增加资源。"
+    },
+    {
+      "id": "cet6_049",
+      "word": "collaborate",
+      "phonetic": "/kəˈlæbəreɪt/",
+      "meaning": "v. 合作，协作",
+      "example": "The two companies collaborate on the project.",
+      "exampleTrans": "两家公司在这个项目上合作。"
+    },
+    {
+      "id": "cet6_050",
+      "word": "compensate",
+      "phonetic": "/ˈkɒmpenseɪt/",
+      "meaning": "v. 补偿，赔偿",
+      "example": "The company will compensate for the loss.",
+      "exampleTrans": "公司将对损失进行赔偿。"
+    },
+    {
+      "id": "cet6_051",
+      "word": "complement",
+      "phonetic": "/ˈkɒmplɪment/",
+      "meaning": "v. 补充，与...相配",
+      "example": "The wine complements the meal perfectly.",
+      "exampleTrans": "这酒与这顿饭完美搭配。"
+    },
+    {
+      "id": "cet6_052",
+      "word": "comply",
+      "phonetic": "/kəmˈplaɪ/",
+      "meaning": "v. 遵守，服从",
+      "example": "You must comply with the rules.",
+      "exampleTrans": "你必须遵守规则。"
+    },
+    {
+      "id": "cet6_053",
+      "word": "conceive",
+      "phonetic": "/kənˈsiːv/",
+      "meaning": "v. 构想，怀孕",
+      "example": "I cannot conceive why he did that.",
+      "exampleTrans": "我无法想象他为什么那样做。"
+    },
+    {
+      "id": "cet6_054",
+      "word": "confront",
+      "phonetic": "/kənˈfrʌnt/",
+      "meaning": "v. 面对，遭遇",
+      "example": "We must confront the problem directly.",
+      "exampleTrans": "我们必须直接面对这个问题。"
+    },
+    {
+      "id": "cet6_055",
+      "word": "consolidate",
+      "phonetic": "/kənˈsɒlɪdeɪt/",
+      "meaning": "v. 巩固，合并",
+      "example": "The company consolidated its position.",
+      "exampleTrans": "公司巩固了自己的地位。"
+    },
+    {
+      "id": "cet6_056",
+      "word": "contradict",
+      "phonetic": "/ˌkɒntrəˈdɪkt/",
+      "meaning": "v. 反驳，与...矛盾",
+      "example": "The evidence contradicts his statement.",
+      "exampleTrans": "证据与他的陈述矛盾。"
+    },
+    {
+      "id": "cet6_057",
+      "word": "converge",
+      "phonetic": "/kənˈvɜːrdʒ/",
+      "meaning": "v. 汇聚，集中",
+      "example": "People converged on the town square.",
+      "exampleTrans": "人们聚集在城镇广场。"
+    },
+    {
+      "id": "cet6_058",
+      "word": "correlate",
+      "phonetic": "/ˈkɒrəleɪt/",
+      "meaning": "v. 相关，关联",
+      "example": "The results correlate with our hypothesis.",
+      "exampleTrans": "结果与我们的假设相关。"
+    },
+    {
+      "id": "cet6_059",
+      "word": "cultivate",
+      "phonetic": "/ˈkʌltɪveɪt/",
+      "meaning": "v. 培养，耕作",
+      "example": "We need to cultivate good habits.",
+      "exampleTrans": "我们需要培养好习惯。"
+    },
+    {
+      "id": "cet6_060",
+      "word": "dedicate",
+      "phonetic": "/ˈdedɪkeɪt/",
+      "meaning": "v. 致力于，奉献",
+      "example": "She dedicated her life to science.",
+      "exampleTrans": "她毕生致力于科学。"
+    },
+    {
+      "id": "cet6_061",
+      "word": "degrade",
+      "phonetic": "/dɪˈɡreɪd/",
+      "meaning": "v. 降级，退化",
+      "example": "Pollution degrades the environment.",
+      "exampleTrans": "污染使环境退化。"
+    },
+    {
+      "id": "cet6_062",
+      "word": "delegate",
+      "phonetic": "/ˈdelɪɡeɪt/",
+      "meaning": "v. 委派，授权",
+      "example": "He delegated the task to his assistant.",
+      "exampleTrans": "他把任务委派给助理。"
+    },
+    {
+      "id": "cet6_063",
+      "word": "derive",
+      "phonetic": "/dɪˈraɪv/",
+      "meaning": "v. 获得，源于",
+      "example": "The word derives from Latin.",
+      "exampleTrans": "这个词源自拉丁语。"
+    },
+    {
+      "id": "cet6_064",
+      "word": "deviate",
+      "phonetic": "/ˈdiːvieɪt/",
+      "meaning": "v. 偏离，背离",
+      "example": "Do not deviate from the plan.",
+      "exampleTrans": "不要偏离计划。"
+    },
+    {
+      "id": "cet6_065",
+      "word": "analogy",
+      "phonetic": "/əˈnælədʒi/",
+      "meaning": "n. 类比，比喻",
+      "example": "He drew an analogy between the brain and a computer.",
+      "exampleTrans": "他把大脑和电脑做了类比。"
+    },
+    {
+      "id": "cet6_066",
+      "word": "anomaly",
+      "phonetic": "/əˈnɒməli/",
+      "meaning": "n. 异常，反常",
+      "example": "This result is an anomaly.",
+      "exampleTrans": "这个结果是个异常。"
+    },
+    {
+      "id": "cet6_067",
+      "word": "bureaucracy",
+      "phonetic": "/bjʊəˈrɒkrəsi/",
+      "meaning": "n. 官僚机构，官僚主义",
+      "example": "The bureaucracy slows down the process.",
+      "exampleTrans": "官僚机构拖慢了进程。"
+    },
+    {
+      "id": "cet6_068",
+      "word": "consensus",
+      "phonetic": "/kənˈsensəs/",
+      "meaning": "n. 共识，一致",
+      "example": "We reached a consensus on the issue.",
+      "exampleTrans": "我们就这个问题达成了共识。"
+    },
+    {
+      "id": "cet6_069",
+      "word": "controversy",
+      "phonetic": "/ˈkɒntrəvɜːrsi/",
+      "meaning": "n. 争议，争论",
+      "example": "The decision caused much controversy.",
+      "exampleTrans": "这个决定引起了很大争议。"
+    },
+    {
+      "id": "cet6_070",
+      "word": "convention",
+      "phonetic": "/kənˈvenʃn/",
+      "meaning": "n. 惯例，大会",
+      "example": "By convention, the leader speaks first.",
+      "exampleTrans": "按照惯例，领导先发言。"
+    },
+    {
+      "id": "cet6_071",
+      "word": "criterion",
+      "phonetic": "/kraɪˈtɪəriən/",
+      "meaning": "n. 标准，准则",
+      "example": "What is the criterion for selection?",
+      "exampleTrans": "选拔的标准是什么？"
+    },
+    {
+      "id": "cet6_072",
+      "word": "dilemma",
+      "phonetic": "/dɪˈlemə/",
+      "meaning": "n. 困境，两难",
+      "example": "I am in a dilemma about what to do.",
+      "exampleTrans": "我陷入了两难境地。"
+    },
+    {
+      "id": "cet6_073",
+      "word": "discrepancy",
+      "phonetic": "/dɪˈskrepənsi/",
+      "meaning": "n. 差异，不符",
+      "example": "There is a discrepancy between the two reports.",
+      "exampleTrans": "两份报告之间存在差异。"
+    },
+    {
+      "id": "cet6_074",
+      "word": "doctrine",
+      "phonetic": "/ˈdɒktrɪn/",
+      "meaning": "n. 学说，教义",
+      "example": "The doctrine was widely accepted.",
+      "exampleTrans": "这一学说被广泛接受。"
+    },
+    {
+      "id": "cet6_075",
+      "word": "eloquence",
+      "phonetic": "/ˈeləkwəns/",
+      "meaning": "n. 口才，雄辩",
+      "example": "His eloquence moved the audience.",
+      "exampleTrans": "他的口才打动了观众。"
+    },
+    {
+      "id": "cet6_076",
+      "word": "empathy",
+      "phonetic": "/ˈempəθi/",
+      "meaning": "n. 共情，同理心",
+      "example": "She showed great empathy for others.",
+      "exampleTrans": "她对他人表现出很强的同理心。"
+    },
+    {
+      "id": "cet6_077",
+      "word": "entity",
+      "phonetic": "/ˈentəti/",
+      "meaning": "n. 实体，存在",
+      "example": "The company is a separate legal entity.",
+      "exampleTrans": "公司是一个独立的法律实体。"
+    },
+    {
+      "id": "cet6_078",
+      "word": "entropy",
+      "phonetic": "/ˈentrəpi/",
+      "meaning": "n. 熵，混乱度",
+      "example": "Entropy increases over time.",
+      "exampleTrans": "熵随时间增加。"
+    },
+    {
+      "id": "cet6_079",
+      "word": "ethics",
+      "phonetic": "/ˈeθɪks/",
+      "meaning": "n. 伦理，道德",
+      "example": "Medical ethics are very important.",
+      "exampleTrans": "医学伦理非常重要。"
+    },
+    {
+      "id": "cet6_080",
+      "word": "feasibility",
+      "phonetic": "/ˌfiːzəˈbɪləti/",
+      "meaning": "n. 可行性",
+      "example": "We studied the feasibility of the project.",
+      "exampleTrans": "我们研究了项目的可行性。"
+    },
+    {
+      "id": "cet6_081",
+      "word": "fluctuation",
+      "phonetic": "/ˌflʌktʃuˈeɪʃn/",
+      "meaning": "n. 波动，起伏",
+      "example": "Prices are subject to fluctuation.",
+      "exampleTrans": "价格会波动。"
+    },
+    {
+      "id": "cet6_082",
+      "word": "hypothesis",
+      "phonetic": "/haɪˈpɒθəsɪs/",
+      "meaning": "n. 假设，假说",
+      "example": "The hypothesis needs to be tested.",
+      "exampleTrans": "这个假设需要验证。"
+    },
+    {
+      "id": "cet6_083",
+      "word": "ideology",
+      "phonetic": "/ˌaɪdiˈɒlədʒi/",
+      "meaning": "n. 意识形态，思想体系",
+      "example": "Different groups have different ideologies.",
+      "exampleTrans": "不同群体有不同的意识形态。"
+    },
+    {
+      "id": "cet6_084",
+      "word": "incentive",
+      "phonetic": "/ɪnˈsentɪv/",
+      "meaning": "n. 激励，动机",
+      "example": "Money is a strong incentive for work.",
+      "exampleTrans": "金钱是工作的强大动力。"
+    },
+    {
+      "id": "cet6_085",
+      "word": "infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "meaning": "n. 基础设施",
+      "example": "The country needs better infrastructure.",
+      "exampleTrans": "这个国家需要更好的基础设施。"
+    },
+    {
+      "id": "cet6_086",
+      "word": "innovation",
+      "phonetic": "/ˌɪnəˈveɪʃn/",
+      "meaning": "n. 创新，革新",
+      "example": "Technological innovation drives progress.",
+      "exampleTrans": "技术创新推动进步。"
+    },
+    {
+      "id": "cet6_087",
+      "word": "integrity",
+      "phonetic": "/ɪnˈteɡrəti/",
+      "meaning": "n. 正直，完整",
+      "example": "He is a man of integrity.",
+      "exampleTrans": "他是一个正直的人。"
+    },
+    {
+      "id": "cet6_088",
+      "word": "intuition",
+      "phonetic": "/ˌɪntjuˈɪʃn/",
+      "meaning": "n. 直觉，直觉力",
+      "example": "Trust your intuition.",
+      "exampleTrans": "相信你的直觉。"
+    },
+    {
+      "id": "cet6_089",
+      "word": "jurisdiction",
+      "phonetic": "/ˌdʒʊərɪsˈdɪkʃn/",
+      "meaning": "n. 管辖权，司法权",
+      "example": "This case falls under our jurisdiction.",
+      "exampleTrans": "这个案子属于我们的管辖范围。"
+    },
+    {
+      "id": "cet6_090",
+      "word": "metaphor",
+      "phonetic": "/ˈmetəfər/",
+      "meaning": "n. 隐喻，比喻",
+      "example": "Life is a journey is a common metaphor.",
+      "exampleTrans": "'生命是一场旅程'是一个常见的隐喻。"
+    },
+    {
+      "id": "cet6_091",
+      "word": "paradigm",
+      "phonetic": "/ˈpærədaɪm/",
+      "meaning": "n. 范式，范例",
+      "example": "This discovery represents a paradigm shift.",
+      "exampleTrans": "这一发现代表了范式转变。"
+    },
+    {
+      "id": "cet6_092",
+      "word": "paradox",
+      "phonetic": "/ˈpærədɒks/",
+      "meaning": "n. 悖论，矛盾",
+      "example": "It is a paradox that standing is tiring.",
+      "exampleTrans": "站着很累是一个悖论。"
+    },
+    {
+      "id": "cet6_093",
+      "word": "parameter",
+      "phonetic": "/pəˈræmɪtər/",
+      "meaning": "n. 参数，范围",
+      "example": "We need to define the parameters.",
+      "exampleTrans": "我们需要定义参数。"
+    },
+    {
+      "id": "cet6_094",
+      "word": "phenomenon",
+      "phonetic": "/fəˈnɒmɪnən/",
+      "meaning": "n. 现象",
+      "example": "Global warming is a serious phenomenon.",
+      "exampleTrans": "全球变暖是一个严重的现象。"
+    },
+    {
+      "id": "cet6_095",
+      "word": "adequate",
+      "phonetic": "/ˈædɪkwət/",
+      "meaning": "adj. 足够的，适当的",
+      "example": "The supply is not adequate to meet demand.",
+      "exampleTrans": "供应不足以满足需求。"
+    },
+    {
+      "id": "cet6_096",
+      "word": "aesthetic",
+      "phonetic": "/iːsˈθetɪk/",
+      "meaning": "adj. 美学的，审美的",
+      "example": "The design has aesthetic appeal.",
+      "exampleTrans": "这个设计有审美吸引力。"
+    },
+    {
+      "id": "cet6_097",
+      "word": "affluent",
+      "phonetic": "/ˈæfluənt/",
+      "meaning": "adj. 富裕的，富足的",
+      "example": "He comes from an affluent family.",
+      "exampleTrans": "他来自富裕家庭。"
+    },
+    {
+      "id": "cet6_098",
+      "word": "apprehensive",
+      "phonetic": "/ˌæprɪˈhensɪv/",
+      "meaning": "adj. 忧虑的，担心的",
+      "example": "She felt apprehensive about the exam.",
+      "exampleTrans": "她对考试感到担忧。"
+    },
+    {
+      "id": "cet6_099",
+      "word": "coherent",
+      "phonetic": "/kəʊˈhɪərənt/",
+      "meaning": "adj. 连贯的，一致的",
+      "example": "His argument is not coherent.",
+      "exampleTrans": "他的论点不连贯。"
+    },
+    {
+      "id": "cet6_100",
+      "word": "compatible",
+      "phonetic": "/kəmˈpætəbl/",
+      "meaning": "adj. 兼容的，相容的",
+      "example": "This software is compatible with Windows.",
+      "exampleTrans": "这个软件与Windows兼容。"
+    },
+    {
+      "id": "cet6_101",
+      "word": "comprehensive",
+      "phonetic": "/ˌkɒmprɪˈhensɪv/",
+      "meaning": "adj. 全面的，综合的",
+      "example": "We need a comprehensive plan.",
+      "exampleTrans": "我们需要一个全面的计划。"
+    },
+    {
+      "id": "cet6_102",
+      "word": "conspicuous",
+      "phonetic": "/kənˈspɪkjuəs/",
+      "meaning": "adj. 显眼的，明显的",
+      "example": "Her red dress was conspicuous.",
+      "exampleTrans": "她的红裙子很显眼。"
+    },
+    {
+      "id": "cet6_103",
+      "word": "contemptuous",
+      "phonetic": "/kənˈtemptʃuəs/",
+      "meaning": "adj. 轻蔑的，鄙视的",
+      "example": "He gave a contemptuous laugh.",
+      "exampleTrans": "他轻蔑地笑了。"
+    },
+    {
+      "id": "cet6_104",
+      "word": "contradictory",
+      "phonetic": "/ˌkɒntrəˈdɪktəri/",
+      "meaning": "adj. 矛盾的，对立的",
+      "example": "The two statements are contradictory.",
+      "exampleTrans": "这两个陈述是矛盾的。"
+    },
+    {
+      "id": "cet6_105",
+      "word": "conventional",
+      "phonetic": "/kənˈvenʃənl/",
+      "meaning": "adj. 传统的，常规的",
+      "example": "I prefer conventional methods.",
+      "exampleTrans": "我更喜欢传统方法。"
+    },
+    {
+      "id": "cet6_106",
+      "word": "convincing",
+      "phonetic": "/kənˈvɪnsɪŋ/",
+      "meaning": "adj. 有说服力的",
+      "example": "He presented convincing evidence.",
+      "exampleTrans": "他提出了有说服力的证据。"
+    },
+    {
+      "id": "cet6_107",
+      "word": "cumulative",
+      "phonetic": "/ˈkjuːmjələtɪv/",
+      "meaning": "adj. 累积的，渐增的",
+      "example": "Learning is a cumulative process.",
+      "exampleTrans": "学习是一个累积的过程。"
+    },
+    {
+      "id": "cet6_108",
+      "word": "deliberate",
+      "phonetic": "/dɪˈlɪbərət/",
+      "meaning": "adj. 故意的，深思熟虑的",
+      "example": "It was a deliberate choice.",
+      "exampleTrans": "这是一个深思熟虑的选择。"
+    },
+    {
+      "id": "cet6_109",
+      "word": "detrimental",
+      "phonetic": "/ˌdetrɪˈmentl/",
+      "meaning": "adj. 有害的，不利的",
+      "example": "Smoking is detrimental to health.",
+      "exampleTrans": "吸烟有害健康。"
+    },
+    {
+      "id": "cet6_110",
+      "word": "discreet",
+      "phonetic": "/dɪˈskriːt/",
+      "meaning": "adj. 谨慎的，小心的",
+      "example": "He was discreet about his plans.",
+      "exampleTrans": "他对自己的计划很谨慎。"
+    },
+    {
+      "id": "cet6_111",
+      "word": "discrete",
+      "phonetic": "/dɪˈskriːt/",
+      "meaning": "adj. 离散的，不连续的",
+      "example": "The data consists of discrete values.",
+      "exampleTrans": "数据由离散值组成。"
+    },
+    {
+      "id": "cet6_112",
+      "word": "diverse",
+      "phonetic": "/daɪˈvɜːrs/",
+      "meaning": "adj. 多样的，不同的",
+      "example": "We live in a diverse society.",
+      "exampleTrans": "我们生活在一个多元化的社会。"
+    },
+    {
+      "id": "cet6_113",
+      "word": "dominant",
+      "phonetic": "/ˈdɒmɪnənt/",
+      "meaning": "adj. 主导的，占优势的",
+      "example": "Blue is the dominant color.",
+      "exampleTrans": "蓝色是主导色。"
+    },
+    {
+      "id": "cet6_114",
+      "word": "elaborate",
+      "phonetic": "/ɪˈlæbərət/",
+      "meaning": "adj. 复杂的，精心制作的",
+      "example": "The plan is quite elaborate.",
+      "exampleTrans": "这个计划相当复杂。"
+    },
+    {
+      "id": "cet6_115",
+      "word": "eloquent",
+      "phonetic": "/ˈeləkwənt/",
+      "meaning": "adj. 雄辩的，有口才的",
+      "example": "She gave an eloquent speech.",
+      "exampleTrans": "她做了雄辩的演讲。"
+    },
+    {
+      "id": "cet6_116",
+      "word": "empirical",
+      "phonetic": "/ɪmˈpɪrɪkl/",
+      "meaning": "adj. 经验的，实证的",
+      "example": "This theory lacks empirical support.",
+      "exampleTrans": "这个理论缺乏实证支持。"
+    },
+    {
+      "id": "cet6_117",
+      "word": "erroneous",
+      "phonetic": "/ɪˈroʊniəs/",
+      "meaning": "adj. 错误的，不正确的",
+      "example": "The report contains erroneous information.",
+      "exampleTrans": "报告包含错误信息。"
+    },
+    {
+      "id": "cet6_118",
+      "word": "exclusive",
+      "phonetic": "/ɪkˈskluːsɪv/",
+      "meaning": "adj. 独有的，排他的",
+      "example": "This club is very exclusive.",
+      "exampleTrans": "这个俱乐部很有排他性。"
+    },
+    {
+      "id": "cet6_119",
+      "word": "explicit",
+      "phonetic": "/ɪkˈsplɪsɪt/",
+      "meaning": "adj. 明确的，清楚的",
+      "example": "He gave explicit instructions.",
+      "exampleTrans": "他给出了明确的指示。"
+    },
+    {
+      "id": "cet6_120",
+      "word": "extensive",
+      "phonetic": "/ɪkˈstensɪv/",
+      "meaning": "adj. 广泛的，大量的",
+      "example": "The damage was extensive.",
+      "exampleTrans": "损失很广泛。"
+    },
+    {
+      "id": "cet6_121",
+      "word": "feasible",
+      "phonetic": "/ˈfiːzəbl/",
+      "meaning": "adj. 可行的，可能的",
+      "example": "Is this plan feasible?",
+      "exampleTrans": "这个计划可行吗？"
+    },
+    {
+      "id": "cet6_122",
+      "word": "fragile",
+      "phonetic": "/ˈfrædʒaɪl/",
+      "meaning": "adj. 脆弱的，易碎的",
+      "example": "Handle with care - it is fragile.",
+      "exampleTrans": "小心轻放——它很脆弱。"
+    },
+    {
+      "id": "cet6_123",
+      "word": "frugal",
+      "phonetic": "/ˈfruːɡl/",
+      "meaning": "adj. 节俭的，朴素的",
+      "example": "He leads a frugal life.",
+      "exampleTrans": "他过着节俭的生活。"
+    },
+    {
+      "id": "cet6_124",
+      "word": "futile",
+      "phonetic": "/ˈfjuːtaɪl/",
+      "meaning": "adj. 徒劳的，无用的",
+      "example": "Resistance is futile.",
+      "exampleTrans": "抵抗是徒劳的。"
+    },
+    {
+      "id": "cet6_125",
+      "word": "hostile",
+      "phonetic": "/ˈhɒstaɪl/",
+      "meaning": "adj. 敌对的，敌意的",
+      "example": "The audience was hostile.",
+      "exampleTrans": "观众怀有敌意。"
+    },
+    {
+      "id": "cet6_126",
+      "word": "hypothetical",
+      "phonetic": "/ˌhaɪpəˈθetɪkl/",
+      "meaning": "adj. 假设的，假定的",
+      "example": "This is a hypothetical scenario.",
+      "exampleTrans": "这是一个假设的情景。"
+    },
+    {
+      "id": "cet6_127",
+      "word": "immutable",
+      "phonetic": "/ɪˈmjuːtəbl/",
+      "meaning": "adj. 不可变的",
+      "example": "Some laws are immutable.",
+      "exampleTrans": "有些法则是不可改变的。"
+    },
+    {
+      "id": "cet6_128",
+      "word": "implicit",
+      "phonetic": "/ɪmˈplɪsɪt/",
+      "meaning": "adj. 含蓄的，暗示的",
+      "example": "There was implicit criticism in his words.",
+      "exampleTrans": "他的话中有含蓄的批评。"
+    },
+    {
+      "id": "cet6_129",
+      "word": "benevolent",
+      "phonetic": "/bəˈnevələnt/",
+      "meaning": "adj. 仁慈的，善意的 (bene-好)",
+      "example": "He is a benevolent old man.",
+      "exampleTrans": "他是一位仁慈的老人。"
+    },
+    {
+      "id": "cet6_130",
+      "word": "beneficial",
+      "phonetic": "/ˌbenɪˈfɪʃl/",
+      "meaning": "adj. 有益的，有利的 (bene-好)",
+      "example": "Exercise is beneficial to health.",
+      "exampleTrans": "运动对健康有益。"
+    },
+    {
+      "id": "cet6_131",
+      "word": "benediction",
+      "phonetic": "/ˌbenɪˈdɪkʃn/",
+      "meaning": "n. 祝福，恩赐 (bene-好)",
+      "example": "He gave his benediction to the couple.",
+      "exampleTrans": "他祝福这对夫妇。"
+    },
+    {
+      "id": "cet6_132",
+      "word": "malicious",
+      "phonetic": "/məˈlɪʃəs/",
+      "meaning": "adj. 恶意的，恶毒的 (mal-坏)",
+      "example": "He spread malicious rumors.",
+      "exampleTrans": "他散布恶意谣言。"
+    },
+    {
+      "id": "cet6_133",
+      "word": "malfunction",
+      "phonetic": "/ˌmælˈfʌŋkʃn/",
+      "meaning": "n. 故障，失灵 (mal-坏)",
+      "example": "The machine had a malfunction.",
+      "exampleTrans": "机器出了故障。"
+    },
+    {
+      "id": "cet6_134",
+      "word": "malevolent",
+      "phonetic": "/məˈlevələnt/",
+      "meaning": "adj. 有恶意的，恶毒的 (mal-坏)",
+      "example": "He cast a malevolent glance.",
+      "exampleTrans": "他投来恶毒的一瞥。"
+    },
+    {
+      "id": "cet6_135",
+      "word": "maltreat",
+      "phonetic": "/ˌmælˈtriːt/",
+      "meaning": "v. 虐待 (mal-坏)",
+      "example": "It is wrong to maltreat animals.",
+      "exampleTrans": "虐待动物是错误的。"
+    },
+    {
+      "id": "cet6_136",
+      "word": "predominant",
+      "phonetic": "/prɪˈdɒmɪnənt/",
+      "meaning": "adj. 主要的，占优势的 (pre-先)",
+      "example": "Blue is the predominant color.",
+      "exampleTrans": "蓝色是主要颜色。"
+    },
+    {
+      "id": "cet6_137",
+      "word": "preliminary",
+      "phonetic": "/prɪˈlɪmɪnəri/",
+      "meaning": "adj. 初步的，预备的 (pre-先)",
+      "example": "We conducted a preliminary survey.",
+      "exampleTrans": "我们进行了初步调查。"
+    },
+    {
+      "id": "cet6_138",
+      "word": "premature",
+      "phonetic": "/ˌpreməˈtjʊər/",
+      "meaning": "adj. 过早的，早产的 (pre-先)",
+      "example": "The baby was born premature.",
+      "exampleTrans": "婴儿早产了。"
+    },
+    {
+      "id": "cet6_139",
+      "word": "prerequisite",
+      "phonetic": "/ˌpriːˈrekwəzɪt/",
+      "meaning": "n. 先决条件 (pre-先)",
+      "example": "This course is a prerequisite.",
+      "exampleTrans": "这门课是先决条件。"
+    },
+    {
+      "id": "cet6_140",
+      "word": "subordinate",
+      "phonetic": "/səˈbɔːdɪnət/",
+      "meaning": "adj. 从属的，次要的 (sub-下)",
+      "example": "Women were subordinate to men.",
+      "exampleTrans": "女性从属于男性。"
+    },
+    {
+      "id": "cet6_141",
+      "word": "subconscious",
+      "phonetic": "/ˌsʌbˈkɒnʃəs/",
+      "meaning": "adj. 潜意识的 (sub-下)",
+      "example": "Subconscious desires affect behavior.",
+      "exampleTrans": "潜意识欲望影响行为。"
+    },
+    {
+      "id": "cet6_142",
+      "word": "submarine",
+      "phonetic": "/ˈsʌbməriːn/",
+      "meaning": "n. 潜水艇 (sub-下)",
+      "example": "The submarine dived deep.",
+      "exampleTrans": "潜水艇深潜。"
+    },
+    {
+      "id": "cet6_143",
+      "word": "superficial",
+      "phonetic": "/ˌsuːpəˈfɪʃl/",
+      "meaning": "adj. 表面的，肤浅的 (super-上)",
+      "example": "It was a superficial wound.",
+      "exampleTrans": "这是皮外伤。"
+    },
+    {
+      "id": "cet6_144",
+      "word": "superior",
+      "phonetic": "/suːˈpɪəriər/",
+      "meaning": "adj. 优越的，上级的 (super-上)",
+      "example": "This product is superior.",
+      "exampleTrans": "这个产品更优越。"
+    },
+    {
+      "id": "cet6_145",
+      "word": "supervise",
+      "phonetic": "/ˈsuːpəvaɪz/",
+      "meaning": "v. 监督，管理 (super-上)",
+      "example": "He supervises the team.",
+      "exampleTrans": "他管理这个团队。"
+    },
+    {
+      "id": "cet6_146",
+      "word": "transmit",
+      "phonetic": "/trænzˈmɪt/",
+      "meaning": "v. 传输，传播 (trans-跨)",
+      "example": "The station transmits 24 hours a day.",
+      "exampleTrans": "电视台24小时播出。"
+    },
+    {
+      "id": "cet6_147",
+      "word": "transform",
+      "phonetic": "/trænsˈfɔːrm/",
+      "meaning": "v. 转变，变形 (trans-跨)",
+      "example": "The caterpillar transformed into a butterfly.",
+      "exampleTrans": "毛毛虫变成了蝴蝶。"
+    },
+    {
+      "id": "cet6_148",
+      "word": "transfer",
+      "phonetic": "/trænsˈfɜːr/",
+      "meaning": "v. 转移，调动 (trans-跨)",
+      "example": "He was transferred to another department.",
+      "exampleTrans": "他被调到另一个部门。"
+    },
+    {
+      "id": "cet6_149",
+      "word": "transparent",
+      "phonetic": "/trænsˈpærənt/",
+      "meaning": "adj. 透明的，清楚的 (trans-跨)",
+      "example": "The glass is transparent.",
+      "exampleTrans": "玻璃是透明的。"
+    },
+    {
+      "id": "cet6_150",
+      "word": "unanimous",
+      "phonetic": "/juˈnænɪməs/",
+      "meaning": "adj. 一致同意的 (uni-一)",
+      "example": "The decision was unanimous.",
+      "exampleTrans": "这个决定是一致通过的。"
+    },
+    {
+      "id": "cet6_151",
+      "word": "uniform",
+      "phonetic": "/ˈjuːnɪfɔːrm/",
+      "meaning": "n. 制服 adj. 统一的 (uni-一)",
+      "example": "Students wear school uniforms.",
+      "exampleTrans": "学生穿校服。"
+    },
+    {
+      "id": "cet6_152",
+      "word": "unify",
+      "phonetic": "/ˈjuːnɪfaɪ/",
+      "meaning": "v. 统一，使一致 (uni-一)",
+      "example": "The country was unified.",
+      "exampleTrans": "国家实现了统一。"
+    },
+    {
+      "id": "cet6_153",
+      "word": "bilateral",
+      "phonetic": "/ˌbaɪˈlætərəl/",
+      "meaning": "adj. 双边的 (bi-二)",
+      "example": "The two countries signed a bilateral agreement.",
+      "exampleTrans": "两国签署了双边协议。"
+    },
+    {
+      "id": "cet6_154",
+      "word": "bilingual",
+      "phonetic": "/ˌbaɪˈlɪŋɡwəl/",
+      "meaning": "adj. 双语的 (bi-二)",
+      "example": "She is bilingual in English and French.",
+      "exampleTrans": "她会说英语和法语两种语言。"
+    },
+    {
+      "id": "cet6_155",
+      "word": "multilateral",
+      "phonetic": "/ˌmʌltiˈlætərəl/",
+      "meaning": "adj. 多边的 (multi-多)",
+      "example": "We prefer multilateral negotiations.",
+      "exampleTrans": "我们更喜欢多边谈判。"
+    },
+    {
+      "id": "cet6_156",
+      "word": "multimedia",
+      "phonetic": "/ˌmʌltiˈmiːdiə/",
+      "meaning": "n. 多媒体 (multi-多)",
+      "example": "The presentation uses multimedia.",
+      "exampleTrans": "这个演示使用了多媒体。"
+    },
+    {
+      "id": "cet6_157",
+      "word": "polytechnic",
+      "phonetic": "/ˌpɒliˈteknɪk/",
+      "meaning": "n. 理工学院 (poly-多)",
+      "example": "He studied at a polytechnic.",
+      "exampleTrans": "他在理工学院学习。"
+    },
+    {
+      "id": "cet6_158",
+      "word": "monopoly",
+      "phonetic": "/məˈnɒpəli/",
+      "meaning": "n. 垄断，专卖 (mono-单)",
+      "example": "The company has a monopoly.",
+      "exampleTrans": "这家公司有垄断地位。"
+    },
+    {
+      "id": "cet6_159",
+      "word": "differentiate",
+      "phonetic": "/ˌdɪfəˈrenʃieɪt/",
+      "meaning": "v. 区分，区别",
+      "example": "Can you differentiate between the two?",
+      "exampleTrans": "你能区分这两者吗？"
+    },
+    {
+      "id": "cet6_160",
+      "word": "diminish",
+      "phonetic": "/dɪˈmɪnɪʃ/",
+      "meaning": "v. 减少，削弱",
+      "example": "The pain gradually diminished.",
+      "exampleTrans": "疼痛逐渐减轻。"
+    },
+    {
+      "id": "cet6_161",
+      "word": "discriminate",
+      "phonetic": "/dɪˈskrɪmɪneɪt/",
+      "meaning": "v. 歧视，区分",
+      "example": "It is illegal to discriminate.",
+      "exampleTrans": "歧视是违法的。"
+    },
+    {
+      "id": "cet6_162",
+      "word": "disperse",
+      "phonetic": "/dɪˈspɜːrs/",
+      "meaning": "v. 分散，驱散",
+      "example": "The crowd dispersed quickly.",
+      "exampleTrans": "人群迅速散开。"
+    },
+    {
+      "id": "cet6_163",
+      "word": "disrupt",
+      "phonetic": "/dɪsˈrʌpt/",
+      "meaning": "v. 扰乱，中断",
+      "example": "The protest disrupted traffic.",
+      "exampleTrans": "抗议扰乱了交通。"
+    },
+    {
+      "id": "cet6_164",
+      "word": "distort",
+      "phonetic": "/dɪˈstɔːrt/",
+      "meaning": "v. 扭曲，歪曲",
+      "example": "The media distorted the facts.",
+      "exampleTrans": "媒体歪曲了事实。"
+    },
+    {
+      "id": "cet6_165",
+      "word": "diversify",
+      "phonetic": "/daɪˈvɜːrsɪfaɪ/",
+      "meaning": "v. 使多样化",
+      "example": "We need to diversify our investments.",
+      "exampleTrans": "我们需要使投资多样化。"
+    },
+    {
+      "id": "cet6_166",
+      "word": "elicit",
+      "phonetic": "/ɪˈlɪsɪt/",
+      "meaning": "v. 引出，诱出",
+      "example": "The question elicited a laugh.",
+      "exampleTrans": "这个问题引起了一阵笑声。"
+    },
+    {
+      "id": "cet6_167",
+      "word": "emanate",
+      "phonetic": "/ˈeməneɪt/",
+      "meaning": "v. 发出，散发",
+      "example": "A strange smell emanated from the kitchen.",
+      "exampleTrans": "厨房里散发出奇怪的气味。"
+    },
+    {
+      "id": "cet6_168",
+      "word": "embody",
+      "phonetic": "/ɪmˈbɒdi/",
+      "meaning": "v. 体现，使具体化",
+      "example": "She embodies the spirit of hope.",
+      "exampleTrans": "她体现了希望的精神。"
+    },
+    {
+      "id": "cet6_169",
+      "word": "empower",
+      "phonetic": "/ɪmˈpaʊər/",
+      "meaning": "v. 授权，使能够",
+      "example": "Education empowers people.",
+      "exampleTrans": "教育赋予人们力量。"
+    },
+    {
+      "id": "cet6_170",
+      "word": "enact",
+      "phonetic": "/ɪˈnækt/",
+      "meaning": "v. 制定，颁布",
+      "example": "Congress enacted a new law.",
+      "exampleTrans": "国会颁布了一项新法律。"
+    },
+    {
+      "id": "cet6_171",
+      "word": "encounter",
+      "phonetic": "/ɪnˈkaʊntər/",
+      "meaning": "v. 遇到，遭遇",
+      "example": "I encountered an old friend.",
+      "exampleTrans": "我遇到了一位老朋友。"
+    },
+    {
+      "id": "cet6_172",
+      "word": "endeavor",
+      "phonetic": "/ɪnˈdevər/",
+      "meaning": "v./n. 努力，尝试",
+      "example": "We will endeavor to finish on time.",
+      "exampleTrans": "我们将努力按时完成。"
+    },
+    {
+      "id": "cet6_173",
+      "word": "enforce",
+      "phonetic": "/ɪnˈfɔːrs/",
+      "meaning": "v. 执行，强迫",
+      "example": "Police enforce the law.",
+      "exampleTrans": "警察执行法律。"
+    },
+    {
+      "id": "cet6_174",
+      "word": "enhance",
+      "phonetic": "/ɪnˈhæns/",
+      "meaning": "v. 提高，增强",
+      "example": "The spices enhance the flavor.",
+      "exampleTrans": "香料增强了味道。"
+    },
+    {
+      "id": "cet6_175",
+      "word": "enlighten",
+      "phonetic": "/ɪnˈlaɪtn/",
+      "meaning": "v. 启发，启蒙",
+      "example": "Can you enlighten me on this subject?",
+      "exampleTrans": "你能在这个问题上启发我吗？"
+    },
+    {
+      "id": "cet6_176",
+      "word": "enrich",
+      "phonetic": "/ɪnˈrɪtʃ/",
+      "meaning": "v. 丰富，使富裕",
+      "example": "Travel enriches the mind.",
+      "exampleTrans": "旅行丰富思想。"
+    },
+    {
+      "id": "cet6_177",
+      "word": "ensure",
+      "phonetic": "/ɪnˈʃʊr/",
+      "meaning": "v. 确保，保证",
+      "example": "We must ensure safety first.",
+      "exampleTrans": "我们必须首先确保安全。"
+    },
+    {
+      "id": "cet6_178",
+      "word": "entail",
+      "phonetic": "/ɪnˈteɪl/",
+      "meaning": "v. 需要，使必要",
+      "example": "This job entails long hours.",
+      "exampleTrans": "这份工作需要长时间工作。"
+    },
+    {
+      "id": "cet6_179",
+      "word": "erode",
+      "phonetic": "/ɪˈroʊd/",
+      "meaning": "v. 侵蚀，腐蚀",
+      "example": "The coastline is slowly eroding.",
+      "exampleTrans": "海岸线正在缓慢侵蚀。"
+    },
+    {
+      "id": "cet6_180",
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "meaning": "v. 升级，扩大",
+      "example": "The conflict escalated quickly.",
+      "exampleTrans": "冲突迅速升级。"
+    },
+    {
+      "id": "cet6_181",
+      "word": "esteem",
+      "phonetic": "/ɪˈstiːm/",
+      "meaning": "v./n. 尊重，敬重",
+      "example": "I hold him in high esteem.",
+      "exampleTrans": "我非常敬重他。"
+    },
+    {
+      "id": "cet6_182",
+      "word": "evoke",
+      "phonetic": "/ɪˈvoʊk/",
+      "meaning": "v. 唤起，引起",
+      "example": "The music evoked memories.",
+      "exampleTrans": "音乐唤起了回忆。"
+    },
+    {
+      "id": "cet6_183",
+      "word": "exacerbate",
+      "phonetic": "/ɪɡˈzæsərbeɪt/",
+      "meaning": "v. 恶化，加剧",
+      "example": "The policy exacerbated the problem.",
+      "exampleTrans": "这项政策加剧了问题。"
+    },
+    {
+      "id": "cet6_184",
+      "word": "excerpt",
+      "phonetic": "/ˈeksɜːrpt/",
+      "meaning": "n. 摘录，节选",
+      "example": "I read an excerpt from the book.",
+      "exampleTrans": "我读了一段书的节选。"
+    },
+    {
+      "id": "cet6_185",
+      "word": "expenditure",
+      "phonetic": "/ɪkˈspendɪtʃər/",
+      "meaning": "n. 支出，花费",
+      "example": "We need to reduce expenditure.",
+      "exampleTrans": "我们需要减少支出。"
+    },
+    {
+      "id": "cet6_186",
+      "word": "expertise",
+      "phonetic": "/ˌekspɜːrˈtiːz/",
+      "meaning": "n. 专业知识，专长",
+      "example": "She has expertise in this field.",
+      "exampleTrans": "她在这个领域有专长。"
+    },
+    {
+      "id": "cet6_187",
+      "word": "explicitly",
+      "phonetic": "/ɪkˈsplɪsɪtli/",
+      "meaning": "adv. 明确地，清楚地",
+      "example": "He explicitly stated his opinion.",
+      "exampleTrans": "他明确表达了自己的观点。"
+    },
+    {
+      "id": "cet6_188",
+      "word": "exposition",
+      "phonetic": "/ˌekspəˈzɪʃn/",
+      "meaning": "n. 阐述，博览会",
+      "example": "The exposition explained the theory.",
+      "exampleTrans": "阐述解释了该理论。"
+    },
+    {
+      "id": "cet6_189",
+      "word": "extract",
+      "phonetic": "/ɪkˈstrækt/",
+      "meaning": "v. 提取，摘录",
+      "example": "They extract oil from the ground.",
+      "exampleTrans": "他们从地下提取石油。"
+    },
+    {
+      "id": "cet6_190",
+      "word": "extrapolate",
+      "phonetic": "/ɪkˈstræpəleɪt/",
+      "meaning": "v. 推断，外推",
+      "example": "We can extrapolate from the data.",
+      "exampleTrans": "我们可以从数据中推断。"
+    },
+    {
+      "id": "cet6_191",
+      "word": "facilitate",
+      "phonetic": "/fəˈsɪlɪteɪt/",
+      "meaning": "v. 促进，使便利",
+      "example": "The new tool facilitates communication.",
+      "exampleTrans": "新工具促进了沟通。"
+    },
+    {
+      "id": "cet6_192",
+      "word": "feasibility",
+      "phonetic": "/ˌfiːzəˈbɪləti/",
+      "meaning": "n. 可行性",
+      "example": "We studied the feasibility.",
+      "exampleTrans": "我们研究了可行性。"
+    },
+    {
+      "id": "cet6_193",
+      "word": "formulate",
+      "phonetic": "/ˈfɔːrmjuleɪt/",
+      "meaning": "v. 制定，阐述",
+      "example": "We need to formulate a plan.",
+      "exampleTrans": "我们需要制定一个计划。"
+    },
+    {
+      "id": "cet6_194",
+      "word": "generalize",
+      "phonetic": "/ˈdʒenrəlaɪz/",
+      "meaning": "v. 概括，推广",
+      "example": "It is hard to generalize.",
+      "exampleTrans": "很难一概而论。"
+    },
+    {
+      "id": "cet6_195",
+      "word": "generate",
+      "phonetic": "/ˈdʒenəreɪt/",
+      "meaning": "v. 产生，生成",
+      "example": "The machine generates electricity.",
+      "exampleTrans": "机器发电。"
+    },
+    {
+      "id": "cet6_196",
+      "word": "hypothesize",
+      "phonetic": "/haɪˈpɒθəsaɪz/",
+      "meaning": "v. 假设，假定",
+      "example": "Scientists hypothesize about the cause.",
+      "exampleTrans": "科学家对原因进行假设。"
+    },
+    {
+      "id": "cet6_197",
+      "word": "illuminate",
+      "phonetic": "/ɪˈluːmɪneɪt/",
+      "meaning": "v. 照亮，阐明",
+      "example": "The lamp illuminates the room.",
+      "exampleTrans": "灯照亮了房间。"
+    },
+    {
+      "id": "cet6_198",
+      "word": "immerse",
+      "phonetic": "/ɪˈmɜːrs/",
+      "meaning": "v. 沉浸，使陷入",
+      "example": "Immerse yourself in the culture.",
+      "exampleTrans": "让自己沉浸在文化中。"
+    },
+    {
+      "id": "cet6_199",
+      "word": "implicate",
+      "phonetic": "/ˈɪmplɪkeɪt/",
+      "meaning": "v. 牵连，暗示",
+      "example": "The evidence implicated him.",
+      "exampleTrans": "证据牵连到了他。"
+    },
+    {
+      "id": "cet6_200",
+      "word": "implicitly",
+      "phonetic": "/ɪmˈplɪsɪtli/",
+      "meaning": "adv. 含蓄地",
+      "example": "She implicitly trusted him.",
+      "exampleTrans": "她含蓄地信任他。"
+    },
+    {
+      "id": "cet6_201",
+      "word": "impose",
+      "phonetic": "/ɪmˈpoʊz/",
+      "meaning": "v. 强加，征收",
+      "example": "The government imposed new taxes.",
+      "exampleTrans": "政府征收了新税。"
+    },
+    {
+      "id": "cet6_202",
+      "word": "inaugurate",
+      "phonetic": "/ɪˈnɔːɡjəreɪt/",
+      "meaning": "v. 开创，举行就职典礼",
+      "example": "They inaugurated the new building.",
+      "exampleTrans": "他们为新大楼举行了落成典礼。"
+    },
+    {
+      "id": "cet6_203",
+      "word": "incentive",
+      "phonetic": "/ɪnˈsentɪv/",
+      "meaning": "n. 激励，动机",
+      "example": "Money is a strong incentive.",
+      "exampleTrans": "金钱是强大的动力。"
+    },
+    {
+      "id": "cet6_204",
+      "word": "incidence",
+      "phonetic": "/ˈɪnsɪdəns/",
+      "meaning": "n. 发生率，影响范围",
+      "example": "The incidence of disease is high.",
+      "exampleTrans": "疾病发生率很高。"
+    },
+    {
+      "id": "cet6_205",
+      "word": "incorporate",
+      "phonetic": "/ɪnˈkɔːrpəreɪt/",
+      "meaning": "v. 包含，合并",
+      "example": "We should incorporate feedback.",
+      "exampleTrans": "我们应该纳入反馈。"
+    },
+    {
+      "id": "cet6_206",
+      "word": "induce",
+      "phonetic": "/ɪnˈduːs/",
+      "meaning": "v. 诱导，引起",
+      "example": "The medicine induces sleep.",
+      "exampleTrans": "药物诱导睡眠。"
+    },
+    {
+      "id": "cet6_207",
+      "word": "infer",
+      "phonetic": "/ɪnˈfɜːr/",
+      "meaning": "v. 推断，推理",
+      "example": "What can we infer from this?",
+      "exampleTrans": "我们能从中推断出什么？"
+    },
+    {
+      "id": "cet6_208",
+      "word": "inference",
+      "phonetic": "/ˈɪnfərəns/",
+      "meaning": "n. 推论，推断",
+      "example": "This is a reasonable inference.",
+      "exampleTrans": "这是一个合理的推论。"
+    },
+    {
+      "id": "cet6_209",
+      "word": "inherent",
+      "phonetic": "/ɪnˈhɪərənt/",
+      "meaning": "adj. 固有的，内在的",
+      "example": "There are inherent risks.",
+      "exampleTrans": "存在固有风险。"
+    },
+    {
+      "id": "cet6_210",
+      "word": "inhibit",
+      "phonetic": "/ɪnˈhɪbɪt/",
+      "meaning": "v. 抑制，阻止",
+      "example": "Fear inhibited his performance.",
+      "exampleTrans": "恐惧抑制了他的表现。"
+    },
+    {
+      "id": "cet6_211",
+      "word": "initiate",
+      "phonetic": "/ɪˈnɪʃieɪt/",
+      "meaning": "v. 开始，发起",
+      "example": "We will initiate the project soon.",
+      "exampleTrans": "我们很快将启动项目。"
+    },
+    {
+      "id": "cet6_212",
+      "word": "innovative",
+      "phonetic": "/ˈɪnəveɪtɪv/",
+      "meaning": "adj. 创新的，革新的",
+      "example": "The company is innovative.",
+      "exampleTrans": "这家公司很有创新精神。"
+    },
+    {
+      "id": "cet6_213",
+      "word": "insert",
+      "phonetic": "/ɪnˈsɜːrt/",
+      "meaning": "v. 插入，嵌入",
+      "example": "Please insert the key.",
+      "exampleTrans": "请插入钥匙。"
+    },
+    {
+      "id": "cet6_214",
+      "word": "insight",
+      "phonetic": "/ˈɪnsaɪt/",
+      "meaning": "n. 洞察力，见解",
+      "example": "The book offers valuable insights.",
+      "exampleTrans": "这本书提供了宝贵的见解。"
+    },
+    {
+      "id": "cet6_215",
+      "word": "inspect",
+      "phonetic": "/ɪnˈspekt/",
+      "meaning": "v. 检查，视察",
+      "example": "The teacher inspected the homework.",
+      "exampleTrans": "老师检查了作业。"
+    },
+    {
+      "id": "cet6_216",
+      "word": "install",
+      "phonetic": "/ɪnˈstɔːl/",
+      "meaning": "v. 安装，任命",
+      "example": "We need to install the software.",
+      "exampleTrans": "我们需要安装软件。"
+    },
+    {
+      "id": "cet6_217",
+      "word": "integrate",
+      "phonetic": "/ˈɪntɪɡreɪt/",
+      "meaning": "v. 整合，融合",
+      "example": "We need to integrate the systems.",
+      "exampleTrans": "我们需要整合系统。"
+    },
+    {
+      "id": "cet6_218",
+      "word": "integrity",
+      "phonetic": "/ɪnˈteɡrəti/",
+      "meaning": "n. 正直，完整",
+      "example": "He has great integrity.",
+      "exampleTrans": "他非常正直。"
+    },
+    {
+      "id": "cet6_219",
+      "word": "intensify",
+      "phonetic": "/ɪnˈtensɪfaɪ/",
+      "meaning": "v. 加强，强化",
+      "example": "The conflict intensified.",
+      "exampleTrans": "冲突加剧了。"
+    },
+    {
+      "id": "cet6_220",
+      "word": "interact",
+      "phonetic": "/ˌɪntərˈækt/",
+      "meaning": "v. 相互作用，互动",
+      "example": "Children learn by interacting.",
+      "exampleTrans": "孩子们通过互动学习。"
+    },
+    {
+      "id": "cet6_221",
+      "word": "interfere",
+      "phonetic": "/ˌɪntərˈfɪr/",
+      "meaning": "v. 干涉，干扰",
+      "example": "Please do not interfere.",
+      "exampleTrans": "请不要干涉。"
+    },
+    {
+      "id": "cet6_222",
+      "word": "intermediate",
+      "phonetic": "/ˌɪntərˈmiːdiət/",
+      "meaning": "adj. 中间的，中级的",
+      "example": "This is an intermediate level course.",
+      "exampleTrans": "这是一门中级课程。"
+    },
+    {
+      "id": "cet6_223",
+      "word": "interpret",
+      "phonetic": "/ɪnˈtɜːrprɪt/",
+      "meaning": "v. 解释，口译",
+      "example": "How do you interpret this data?",
+      "exampleTrans": "你如何解释这些数据？"
+    },
+    {
+      "id": "cet6_224",
+      "word": "intervene",
+      "phonetic": "/ˌɪntərˈviːn/",
+      "meaning": "v. 干预，介入",
+      "example": "The government decided to intervene.",
+      "exampleTrans": "政府决定介入。"
+    },
+    {
+      "id": "cet6_225",
+      "word": "intrinsic",
+      "phonetic": "/ɪnˈtrɪnsɪk/",
+      "meaning": "adj. 固有的，本质的",
+      "example": "The intrinsic value is high.",
+      "exampleTrans": "内在价值很高。"
+    },
+    {
+      "id": "cet6_226",
+      "word": "intuition",
+      "phonetic": "/ˌɪntjuˈɪʃn/",
+      "meaning": "n. 直觉",
+      "example": "Trust your intuition.",
+      "exampleTrans": "相信你的直觉。"
+    },
+    {
+      "id": "cet6_227",
+      "word": "invalid",
+      "phonetic": "/ɪnˈvælɪd/",
+      "meaning": "adj. 无效的",
+      "example": "The ticket is invalid.",
+      "exampleTrans": "这张票无效。"
+    },
+    {
+      "id": "cet6_228",
+      "word": "inventory",
+      "phonetic": "/ˈɪnvəntɔːri/",
+      "meaning": "n. 库存，存货",
+      "example": "We need to check the inventory.",
+      "exampleTrans": "我们需要检查库存。"
+    },
+    {
+      "id": "cet6_229",
+      "word": "inverse",
+      "phonetic": "/ˈɪnvɜːrs/",
+      "meaning": "adj. 相反的，逆的",
+      "example": "There is an inverse relationship.",
+      "exampleTrans": "存在反向关系。"
+    },
+    {
+      "id": "cet6_230",
+      "word": "investigate",
+      "phonetic": "/ɪnˈvestɪɡeɪt/",
+      "meaning": "v. 调查，研究",
+      "example": "Police are investigating the case.",
+      "exampleTrans": "警方正在调查此案。"
+    },
+    {
+      "id": "cet6_231",
+      "word": "invoke",
+      "phonetic": "/ɪnˈvoʊk/",
+      "meaning": "v. 援引，祈求",
+      "example": "He invoked his right to silence.",
+      "exampleTrans": "他援引了保持沉默的权利。"
+    }
+  ]
+}

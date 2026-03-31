@@ -1,0 +1,1606 @@
+{
+  "id": "cet4",
+  "name": "四级核心词",
+  "words": [
+    {
+      "id": "cet4_001",
+      "word": "abandon",
+      "phonetic": "/əˈbændən/",
+      "meaning": "v. 放弃，抛弃",
+      "example": "He abandoned his car and ran for help.",
+      "exampleTrans": "他弃车跑去求救。"
+    },
+    {
+      "id": "cet4_002",
+      "word": "ability",
+      "phonetic": "/əˈbɪləti/",
+      "meaning": "n. 能力，才能",
+      "example": "She has the ability to solve complex problems.",
+      "exampleTrans": "她有能力解决复杂问题。"
+    },
+    {
+      "id": "cet4_003",
+      "word": "absence",
+      "phonetic": "/ˈæbsəns/",
+      "meaning": "n. 缺席，缺乏",
+      "example": "His absence from work was noticed.",
+      "exampleTrans": "他缺勤引起了注意。"
+    },
+    {
+      "id": "cet4_004",
+      "word": "absolute",
+      "phonetic": "/ˈæbsəluːt/",
+      "meaning": "adj. 绝对的，完全的",
+      "example": "I have absolute confidence in you.",
+      "exampleTrans": "我对你有绝对的信心。"
+    },
+    {
+      "id": "cet4_005",
+      "word": "absorb",
+      "phonetic": "/əbˈsɔːrb/",
+      "meaning": "v. 吸收，使全神贯注",
+      "example": "The sponge absorbs water quickly.",
+      "exampleTrans": "海绵吸水很快。"
+    },
+    {
+      "id": "cet4_006",
+      "word": "abstract",
+      "phonetic": "/ˈæbstrækt/",
+      "meaning": "adj. 抽象的 n. 摘要",
+      "example": "Art can be abstract or realistic.",
+      "exampleTrans": "艺术可以是抽象的或写实的。"
+    },
+    {
+      "id": "cet4_007",
+      "word": "abundant",
+      "phonetic": "/əˈbʌndənt/",
+      "meaning": "adj. 丰富的，充裕的",
+      "example": "The region has abundant natural resources.",
+      "exampleTrans": "该地区有丰富的自然资源。"
+    },
+    {
+      "id": "cet4_008",
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "meaning": "adj. 学术的，学院的",
+      "example": "He has excellent academic records.",
+      "exampleTrans": "他的学业成绩优异。"
+    },
+    {
+      "id": "cet4_009",
+      "word": "academy",
+      "phonetic": "/əˈkædəmi/",
+      "meaning": "n. 学院，研究院",
+      "example": "She graduated from a military academy.",
+      "exampleTrans": "她毕业于军事学院。"
+    },
+    {
+      "id": "cet4_010",
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "meaning": "v. 加速，促进",
+      "example": "The car accelerated rapidly.",
+      "exampleTrans": "汽车迅速加速。"
+    },
+    {
+      "id": "cet4_011",
+      "word": "accent",
+      "phonetic": "/ˈæksent/",
+      "meaning": "n. 口音，重音",
+      "example": "She speaks with a British accent.",
+      "exampleTrans": "她说话带有英国口音。"
+    },
+    {
+      "id": "cet4_012",
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meaning": "v. 接受，同意",
+      "example": "I accept your apology.",
+      "exampleTrans": "我接受你的道歉。"
+    },
+    {
+      "id": "cet4_013",
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "meaning": "n. 进入，通道 v. 访问",
+      "example": "Do you have access to the internet?",
+      "exampleTrans": "你能上网吗？"
+    },
+    {
+      "id": "cet4_014",
+      "word": "accident",
+      "phonetic": "/ˈæksɪdənt/",
+      "meaning": "n. 事故，意外",
+      "example": "There was a traffic accident yesterday.",
+      "exampleTrans": "昨天发生了一起交通事故。"
+    },
+    {
+      "id": "cet4_015",
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "meaning": "v. 陪伴，伴随",
+      "example": "She accompanied me to the hospital.",
+      "exampleTrans": "她陪我去医院。"
+    },
+    {
+      "id": "cet4_016",
+      "word": "accomplish",
+      "phonetic": "/əˈkʌmplɪʃ/",
+      "meaning": "v. 完成，实现",
+      "example": "We accomplished our mission.",
+      "exampleTrans": "我们完成了任务。"
+    },
+    {
+      "id": "cet4_017",
+      "word": "accord",
+      "phonetic": "/əˈkɔːrd/",
+      "meaning": "v. 一致，符合 n. 协议",
+      "example": "His views accord with mine.",
+      "exampleTrans": "他的观点与我的一致。"
+    },
+    {
+      "id": "cet4_018",
+      "word": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "meaning": "n. 账户，描述 v. 解释",
+      "example": "I opened a bank account.",
+      "exampleTrans": "我开了一个银行账户。"
+    },
+    {
+      "id": "cet4_019",
+      "word": "accumulate",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "meaning": "v. 积累，积聚",
+      "example": "Dust accumulated on the desk.",
+      "exampleTrans": "桌子上积满了灰尘。"
+    },
+    {
+      "id": "cet4_020",
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meaning": "adj. 准确的，精确的",
+      "example": "The watch is accurate to the second.",
+      "exampleTrans": "这块表精确到秒。"
+    },
+    {
+      "id": "cet4_021",
+      "word": "ability",
+      "phonetic": "/əˈbɪləti/",
+      "meaning": "n. 能力，才能",
+      "example": "She has the ability to speak four languages.",
+      "exampleTrans": "她有能力说四种语言。"
+    },
+    {
+      "id": "cet4_022",
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "adv. 在国外，到国外",
+      "example": "He studied abroad for two years.",
+      "exampleTrans": "他在国外学习了两年。"
+    },
+    {
+      "id": "cet4_023",
+      "word": "absence",
+      "phonetic": "/ˈæbsəns/",
+      "meaning": "n. 缺席，不在",
+      "example": "His absence from class was noticed.",
+      "exampleTrans": "他缺课被注意到了。"
+    },
+    {
+      "id": "cet4_024",
+      "word": "absolute",
+      "phonetic": "/ˈæbsəluːt/",
+      "meaning": "adj. 绝对的，完全的",
+      "example": "I have absolute confidence in you.",
+      "exampleTrans": "我对你有绝对的信心。"
+    },
+    {
+      "id": "cet4_025",
+      "word": "absorb",
+      "phonetic": "/əbˈzɔːrb/",
+      "meaning": "v. 吸收，吸引",
+      "example": "The sponge absorbs water quickly.",
+      "exampleTrans": "海绵快速吸收水分。"
+    },
+    {
+      "id": "cet4_026",
+      "word": "abstract",
+      "phonetic": "/ˈæbstrækt/",
+      "meaning": "adj. 抽象的 n. 摘要",
+      "example": "The painting is very abstract.",
+      "exampleTrans": "这幅画非常抽象。"
+    },
+    {
+      "id": "cet4_027",
+      "word": "abundant",
+      "phonetic": "/əˈbʌndənt/",
+      "meaning": "adj. 丰富的，充裕的",
+      "example": "The region has abundant natural resources.",
+      "exampleTrans": "这个地区有丰富的自然资源。"
+    },
+    {
+      "id": "cet4_028",
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "meaning": "adj. 学术的，学院的",
+      "example": "He has a strong academic background.",
+      "exampleTrans": "他有很强的学术背景。"
+    },
+    {
+      "id": "cet4_029",
+      "word": "academy",
+      "phonetic": "/əˈkædəmi/",
+      "meaning": "n. 学院，研究院",
+      "example": "She was accepted into the music academy.",
+      "exampleTrans": "她被音乐学院录取了。"
+    },
+    {
+      "id": "cet4_030",
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "meaning": "v. 加速，促进",
+      "example": "The car accelerated rapidly.",
+      "exampleTrans": "汽车迅速加速。"
+    },
+    {
+      "id": "cet4_031",
+      "word": "accent",
+      "phonetic": "/ˈæksent/",
+      "meaning": "n. 口音，重音",
+      "example": "He speaks English with a British accent.",
+      "exampleTrans": "他说英语带有英国口音。"
+    },
+    {
+      "id": "cet4_032",
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meaning": "v. 接受，同意",
+      "example": "I accept your apology.",
+      "exampleTrans": "我接受你的道歉。"
+    },
+    {
+      "id": "cet4_033",
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "meaning": "n. 通道，使用权 v. 访问",
+      "example": "Students have access to the library.",
+      "exampleTrans": "学生可以进入图书馆。"
+    },
+    {
+      "id": "cet4_034",
+      "word": "accident",
+      "phonetic": "/ˈæksɪdənt/",
+      "meaning": "n. 事故，意外",
+      "example": "There was a car accident on the highway.",
+      "exampleTrans": "高速公路上发生了一起车祸。"
+    },
+    {
+      "id": "cet4_035",
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "meaning": "v. 陪伴，伴随",
+      "example": "She accompanied me to the doctor.",
+      "exampleTrans": "她陪我去看了医生。"
+    },
+    {
+      "id": "cet4_036",
+      "word": "accomplish",
+      "phonetic": "/əˈkʌmplɪʃ/",
+      "meaning": "v. 完成，实现",
+      "example": "He accomplished his mission.",
+      "exampleTrans": "他完成了他的使命。"
+    },
+    {
+      "id": "cet4_037",
+      "word": "accord",
+      "phonetic": "/əˈkɔːrd/",
+      "meaning": "v. 一致，符合 n. 协议",
+      "example": "His views are in accord with mine.",
+      "exampleTrans": "他的观点与我的一致。"
+    },
+    {
+      "id": "cet4_038",
+      "word": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "meaning": "n. 账户，描述 v. 解释",
+      "example": "I have a savings account at the bank.",
+      "exampleTrans": "我在银行有一个储蓄账户。"
+    },
+    {
+      "id": "cet4_039",
+      "word": "accumulate",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "meaning": "v. 积累，积聚",
+      "example": "Dust began to accumulate on the shelves.",
+      "exampleTrans": "灰尘开始在架子上积聚。"
+    },
+    {
+      "id": "cet4_040",
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meaning": "adj. 精确的，准确的",
+      "example": "The weather forecast was accurate.",
+      "exampleTrans": "天气预报是准确的。"
+    },
+    {
+      "id": "cet4_041",
+      "word": "accuse",
+      "phonetic": "/əˈkjuːz/",
+      "meaning": "v. 控告，指责",
+      "example": "He was accused of stealing.",
+      "exampleTrans": "他被指控偷窃。"
+    },
+    {
+      "id": "cet4_042",
+      "word": "achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "meaning": "v. 达到，实现",
+      "example": "She worked hard to achieve her goals.",
+      "exampleTrans": "她努力工作以实现目标。"
+    },
+    {
+      "id": "cet4_043",
+      "word": "achievement",
+      "phonetic": "/əˈtʃiːvmənt/",
+      "meaning": "n. 成就，成绩",
+      "example": "Winning the medal was a great achievement.",
+      "exampleTrans": "赢得奖牌是一项伟大的成就。"
+    },
+    {
+      "id": "cet4_044",
+      "word": "acid",
+      "phonetic": "/ˈæsɪd/",
+      "meaning": "n. 酸 adj. 酸的",
+      "example": "Vinegar contains acetic acid.",
+      "exampleTrans": "醋含有醋酸。"
+    },
+    {
+      "id": "cet4_045",
+      "word": "acknowledge",
+      "phonetic": "/əkˈnɑːlɪdʒ/",
+      "meaning": "v. 承认，答谢",
+      "example": "He acknowledged his mistake.",
+      "exampleTrans": "他承认了他的错误。"
+    },
+    {
+      "id": "cet4_046",
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪər/",
+      "meaning": "v. 获得，学到",
+      "example": "She acquired a new skill.",
+      "exampleTrans": "她学会了一项新技能。"
+    },
+    {
+      "id": "cet4_047",
+      "word": "acquisition",
+      "phonetic": "/ˌækwɪˈzɪʃn/",
+      "meaning": "n. 获得，收购",
+      "example": "The company made a new acquisition.",
+      "exampleTrans": "公司进行了一项新的收购。"
+    },
+    {
+      "id": "cet4_048",
+      "word": "acre",
+      "phonetic": "/ˈeɪkər/",
+      "meaning": "n. 英亩",
+      "example": "They own ten acres of land.",
+      "exampleTrans": "他们拥有十英亩土地。"
+    },
+    {
+      "id": "cet4_049",
+      "word": "action",
+      "phonetic": "/ˈækʃn/",
+      "meaning": "n. 行动，行为",
+      "example": "Actions speak louder than words.",
+      "exampleTrans": "行动胜于言语。"
+    },
+    {
+      "id": "cet4_050",
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "adj. 活跃的，积极的",
+      "example": "He leads an active lifestyle.",
+      "exampleTrans": "他过着积极活跃的生活方式。"
+    },
+    {
+      "id": "cet4_051",
+      "word": "await",
+      "phonetic": "/əˈweɪt/",
+      "meaning": "v. 等待，期待",
+      "example": "I await your reply.",
+      "exampleTrans": "我等待你的回复。"
+    },
+    {
+      "id": "cet4_052",
+      "word": "award",
+      "phonetic": "/əˈwɔːrd/",
+      "meaning": "n. 奖 v. 授予",
+      "example": "She won an award for her film.",
+      "exampleTrans": "她因电影获奖。"
+    },
+    {
+      "id": "cet4_053",
+      "word": "aware",
+      "phonetic": "/əˈwer/",
+      "meaning": "adj. 意识到的",
+      "example": "Are you aware of the problem?",
+      "exampleTrans": "你意识到这个问题了吗？"
+    },
+    {
+      "id": "cet4_054",
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meaning": "adj. 糟糕的，可怕的",
+      "example": "The weather is awful today.",
+      "exampleTrans": "今天天气很糟糕。"
+    },
+    {
+      "id": "cet4_055",
+      "word": "awkward",
+      "phonetic": "/ˈɔːkwərd/",
+      "meaning": "adj. 尴尬的，笨拙的",
+      "example": "There was an awkward silence.",
+      "exampleTrans": "出现了尴尬的沉默。"
+    },
+    {
+      "id": "cet4_056",
+      "word": "background",
+      "phonetic": "/ˈbækɡraʊnd/",
+      "meaning": "n. 背景，经历",
+      "example": "He has a strong background in math.",
+      "exampleTrans": "他有很强的数学背景。"
+    },
+    {
+      "id": "cet4_057",
+      "word": "backward",
+      "phonetic": "/ˈbækwərd/",
+      "meaning": "adv. 向后 adj. 向后的",
+      "example": "Step backward, please.",
+      "exampleTrans": "请向后退。"
+    },
+    {
+      "id": "cet4_058",
+      "word": "bacon",
+      "phonetic": "/ˈbeɪkən/",
+      "meaning": "n. 培根",
+      "example": "I had bacon for breakfast.",
+      "exampleTrans": "我早餐吃了培根。"
+    },
+    {
+      "id": "cet4_059",
+      "word": "bacteria",
+      "phonetic": "/bækˈtɪriə/",
+      "meaning": "n. 细菌",
+      "example": "Bacteria can cause disease.",
+      "exampleTrans": "细菌会引起疾病。"
+    },
+    {
+      "id": "cet4_060",
+      "word": "badge",
+      "phonetic": "/bædʒ/",
+      "meaning": "n. 徽章，标志",
+      "example": "He wore a police badge.",
+      "exampleTrans": "他佩戴着警徽。"
+    },
+    {
+      "id": "cet4_061",
+      "word": "badly",
+      "phonetic": "/ˈbædli/",
+      "meaning": "adv. 非常，严重地",
+      "example": "He was badly injured.",
+      "exampleTrans": "他受了重伤。"
+    },
+    {
+      "id": "cet4_062",
+      "word": "baggage",
+      "phonetic": "/ˈbæɡɪdʒ/",
+      "meaning": "n. 行李",
+      "example": "How much baggage do you have?",
+      "exampleTrans": "你有多少行李？"
+    },
+    {
+      "id": "cet4_063",
+      "word": "bake",
+      "phonetic": "/beɪk/",
+      "meaning": "v. 烘焙，烤",
+      "example": "She likes to bake cakes.",
+      "exampleTrans": "她喜欢烤蛋糕。"
+    },
+    {
+      "id": "cet4_064",
+      "word": "balance",
+      "phonetic": "/ˈbæləns/",
+      "meaning": "n. 平衡，余额 v. 平衡",
+      "example": "You need to balance work and life.",
+      "exampleTrans": "你需要平衡工作和生活。"
+    },
+    {
+      "id": "cet4_065",
+      "word": "balcony",
+      "phonetic": "/ˈbælkəni/",
+      "meaning": "n. 阳台",
+      "example": "We sat on the balcony.",
+      "exampleTrans": "我们坐在阳台上。"
+    },
+    {
+      "id": "cet4_066",
+      "word": "balloon",
+      "phonetic": "/bəˈluːn/",
+      "meaning": "n. 气球",
+      "example": "The child released the balloon.",
+      "exampleTrans": "孩子放走了气球。"
+    },
+    {
+      "id": "cet4_067",
+      "word": "ban",
+      "phonetic": "/bæn/",
+      "meaning": "v. 禁止 n. 禁令",
+      "example": "Smoking is banned here.",
+      "exampleTrans": "这里禁止吸烟。"
+    },
+    {
+      "id": "cet4_068",
+      "word": "bandage",
+      "phonetic": "/ˈbændɪdʒ/",
+      "meaning": "n. 绷带 v. 包扎",
+      "example": "She put a bandage on his wound.",
+      "exampleTrans": "她给他的伤口包扎了绷带。"
+    },
+    {
+      "id": "cet4_069",
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meaning": "n. 银行，岸 v. 存入银行",
+      "example": "I need to go to the bank.",
+      "exampleTrans": "我需要去银行。"
+    },
+    {
+      "id": "cet4_070",
+      "word": "banker",
+      "phonetic": "/ˈbæŋkər/",
+      "meaning": "n. 银行家",
+      "example": "He works as a banker.",
+      "exampleTrans": "他是一名银行家。"
+    },
+    {
+      "id": "cet4_071",
+      "word": "bar",
+      "phonetic": "/bɑːr/",
+      "meaning": "n. 酒吧，条 v. 阻挡",
+      "example": "They met at a bar.",
+      "exampleTrans": "他们在酒吧见面。"
+    },
+    {
+      "id": "cet4_072",
+      "word": "bare",
+      "phonetic": "/ber/",
+      "meaning": "adj. 赤裸的，空的",
+      "example": "He walked on the bare floor.",
+      "exampleTrans": "他走在光秃秃的地板上。"
+    },
+    {
+      "id": "cet4_073",
+      "word": "bargain",
+      "phonetic": "/ˈbɑːrɡən/",
+      "meaning": "n. 便宜货，交易 v. 讨价还价",
+      "example": "This dress was a bargain.",
+      "exampleTrans": "这条裙子很便宜。"
+    },
+    {
+      "id": "cet4_074",
+      "word": "bark",
+      "phonetic": "/bɑːrk/",
+      "meaning": "v. 吠叫 n. 树皮",
+      "example": "The dog barks at strangers.",
+      "exampleTrans": "狗对陌生人吠叫。"
+    },
+    {
+      "id": "cet4_075",
+      "word": "barn",
+      "phonetic": "/bɑːrn/",
+      "meaning": "n. 谷仓",
+      "example": "The horses are in the barn.",
+      "exampleTrans": "马在谷仓里。"
+    },
+    {
+      "id": "cet4_076",
+      "word": "barrel",
+      "phonetic": "/ˈbærəl/",
+      "meaning": "n. 桶",
+      "example": "Oil is sold in barrels.",
+      "exampleTrans": "石油以桶出售。"
+    },
+    {
+      "id": "cet4_077",
+      "word": "barrier",
+      "phonetic": "/ˈbæriər/",
+      "meaning": "n. 障碍",
+      "example": "Language is a barrier.",
+      "exampleTrans": "语言是一种障碍。"
+    },
+    {
+      "id": "cet4_078",
+      "word": "base",
+      "phonetic": "/beɪs/",
+      "meaning": "n. 基础，基地 v. 以...为基础",
+      "example": "The company is based in Beijing.",
+      "exampleTrans": "公司总部在北京。"
+    },
+    {
+      "id": "cet4_079",
+      "word": "basic",
+      "phonetic": "/ˈbeɪsɪk/",
+      "meaning": "adj. 基本的，基础的",
+      "example": "You need basic computer skills.",
+      "exampleTrans": "你需要基本的计算机技能。"
+    },
+    {
+      "id": "cet4_080",
+      "word": "basin",
+      "phonetic": "/ˈbeɪsn/",
+      "meaning": "n. 盆，盆地",
+      "example": "The Yangtze River basin is vast.",
+      "exampleTrans": "长江流域很广阔。"
+    },
+    {
+      "id": "cet4_081",
+      "word": "basis",
+      "phonetic": "/ˈbeɪsɪs/",
+      "meaning": "n. 基础，根据",
+      "example": "On what basis do you make this decision?",
+      "exampleTrans": "你根据什么做出这个决定？"
+    },
+    {
+      "id": "cet4_082",
+      "word": "bat",
+      "phonetic": "/bæt/",
+      "meaning": "n. 球棒，蝙蝠",
+      "example": "He hit the ball with a bat.",
+      "exampleTrans": "他用球棒击球。"
+    },
+    {
+      "id": "cet4_083",
+      "word": "bath",
+      "phonetic": "/bæθ/",
+      "meaning": "n. 洗澡，浴室",
+      "example": "I need to take a bath.",
+      "exampleTrans": "我需要洗澡。"
+    },
+    {
+      "id": "cet4_084",
+      "word": "bathe",
+      "phonetic": "/beɪð/",
+      "meaning": "v. 洗澡，游泳",
+      "example": "She bathes every morning.",
+      "exampleTrans": "她每天早上洗澡。"
+    },
+    {
+      "id": "cet4_085",
+      "word": "bathroom",
+      "phonetic": "/ˈbæθruːm/",
+      "meaning": "n. 浴室，卫生间",
+      "example": "Where is the bathroom?",
+      "exampleTrans": "卫生间在哪里？"
+    },
+    {
+      "id": "cet4_086",
+      "word": "bathtub",
+      "phonetic": "/ˈbæθtʌb/",
+      "meaning": "n. 浴缸",
+      "example": "The bathtub is full.",
+      "exampleTrans": "浴缸满了。"
+    },
+    {
+      "id": "cet4_087",
+      "word": "battery",
+      "phonetic": "/ˈbætəri/",
+      "meaning": "n. 电池",
+      "example": "The battery is low.",
+      "exampleTrans": "电池电量低。"
+    },
+    {
+      "id": "cet4_088",
+      "word": "battle",
+      "phonetic": "/ˈbætl/",
+      "meaning": "n. 战役，斗争 v. 战斗",
+      "example": "They won the battle.",
+      "exampleTrans": "他们赢得了战斗。"
+    },
+    {
+      "id": "cet4_089",
+      "word": "bay",
+      "phonetic": "/beɪ/",
+      "meaning": "n. 海湾",
+      "example": "San Francisco Bay is beautiful.",
+      "exampleTrans": "旧金山湾很美。"
+    },
+    {
+      "id": "cet4_090",
+      "word": "beach",
+      "phonetic": "/biːtʃ/",
+      "meaning": "n. 海滩",
+      "example": "We went to the beach.",
+      "exampleTrans": "我们去了海滩。"
+    },
+    {
+      "id": "cet4_091",
+      "word": "beam",
+      "phonetic": "/biːm/",
+      "meaning": "n. 光束，梁 v. 发光",
+      "example": "A beam of light came through.",
+      "exampleTrans": "一束光照了进来。"
+    },
+    {
+      "id": "cet4_092",
+      "word": "bean",
+      "phonetic": "/biːn/",
+      "meaning": "n. 豆子",
+      "example": "Coffee is made from beans.",
+      "exampleTrans": "咖啡是由豆子制成的。"
+    },
+    {
+      "id": "cet4_093",
+      "word": "bear",
+      "phonetic": "/ber/",
+      "meaning": "v. 承受，忍受 n. 熊",
+      "example": "I cannot bear the pain.",
+      "exampleTrans": "我无法忍受这种痛苦。"
+    },
+    {
+      "id": "cet4_094",
+      "word": "beard",
+      "phonetic": "/bɪrd/",
+      "meaning": "n. 胡须",
+      "example": "He has a long beard.",
+      "exampleTrans": "他留着长胡子。"
+    },
+    {
+      "id": "cet4_095",
+      "word": "beast",
+      "phonetic": "/biːst/",
+      "meaning": "n. 野兽",
+      "example": "The lion is called the king of beasts.",
+      "exampleTrans": "狮子被称为百兽之王。"
+    },
+    {
+      "id": "cet4_096",
+      "word": "beat",
+      "phonetic": "/biːt/",
+      "meaning": "v. 打败，跳动 n. 节拍",
+      "example": "My heart beats fast.",
+      "exampleTrans": "我的心跳得很快。"
+    },
+    {
+      "id": "cet4_097",
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meaning": "adj. 美丽的",
+      "example": "She is very beautiful.",
+      "exampleTrans": "她非常美丽。"
+    },
+    {
+      "id": "cet4_098",
+      "word": "beauty",
+      "phonetic": "/ˈbjuːti/",
+      "meaning": "n. 美丽，美人",
+      "example": "Beauty is in the eye of the beholder.",
+      "exampleTrans": "情人眼里出西施。"
+    },
+    {
+      "id": "cet4_099",
+      "word": "because",
+      "phonetic": "/bɪˈkɔːz/",
+      "meaning": "conj. 因为",
+      "example": "I stayed because it was raining.",
+      "exampleTrans": "我留下来是因为下雨了。"
+    },
+    {
+      "id": "cet4_100",
+      "word": "become",
+      "phonetic": "/bɪˈkʌm/",
+      "meaning": "v. 变成，成为",
+      "example": "He became a doctor.",
+      "exampleTrans": "他成为了一名医生。"
+    },
+    {
+      "id": "cet4_101",
+      "word": "bedroom",
+      "phonetic": "/ˈbedruːm/",
+      "meaning": "n. 卧室",
+      "example": "This is my bedroom.",
+      "exampleTrans": "这是我的卧室。"
+    },
+    {
+      "id": "cet4_102",
+      "word": "beef",
+      "phonetic": "/biːf/",
+      "meaning": "n. 牛肉",
+      "example": "I would like some beef.",
+      "exampleTrans": "我想要一些牛肉。"
+    },
+    {
+      "id": "cet4_103",
+      "word": "beer",
+      "phonetic": "/bɪr/",
+      "meaning": "n. 啤酒",
+      "example": "He drinks a beer.",
+      "exampleTrans": "他喝啤酒。"
+    },
+    {
+      "id": "cet4_104",
+      "word": "before",
+      "phonetic": "/bɪˈfɔːr/",
+      "meaning": "prep. 在...之前",
+      "example": "Think before you speak.",
+      "exampleTrans": "说话前先思考。"
+    },
+    {
+      "id": "cet4_105",
+      "word": "beg",
+      "phonetic": "/beɡ/",
+      "meaning": "v. 乞求，请求",
+      "example": "I beg your pardon.",
+      "exampleTrans": "请再说一遍。"
+    },
+    {
+      "id": "cet4_106",
+      "word": "begin",
+      "phonetic": "/bɪˈɡɪn/",
+      "meaning": "v. 开始",
+      "example": "Let us begin.",
+      "exampleTrans": "让我们开始吧。"
+    },
+    {
+      "id": "cet4_107",
+      "word": "beginner",
+      "phonetic": "/bɪˈɡɪnər/",
+      "meaning": "n. 初学者",
+      "example": "This book is for beginners.",
+      "exampleTrans": "这本书是给初学者的。"
+    },
+    {
+      "id": "cet4_108",
+      "word": "beginning",
+      "phonetic": "/bɪˈɡɪnɪŋ/",
+      "meaning": "n. 开始，起点",
+      "example": "This is just the beginning.",
+      "exampleTrans": "这只是开始。"
+    },
+    {
+      "id": "cet4_109",
+      "word": "behalf",
+      "phonetic": "/bɪˈhæf/",
+      "meaning": "n. 代表，利益",
+      "example": "On behalf of everyone, thank you.",
+      "exampleTrans": "我代表大家感谢你。"
+    },
+    {
+      "id": "cet4_110",
+      "word": "behave",
+      "phonetic": "/bɪˈheɪv/",
+      "meaning": "v. 表现，行为",
+      "example": "Behave yourself!",
+      "exampleTrans": "规矩点！"
+    },
+    {
+      "id": "cet4_111",
+      "word": "behavior",
+      "phonetic": "/bɪˈheɪvjər/",
+      "meaning": "n. 行为，举止",
+      "example": "His behavior was strange.",
+      "exampleTrans": "他的行为很奇怪。"
+    },
+    {
+      "id": "cet4_112",
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meaning": "prep. 在...后面",
+      "example": "He hid behind the door.",
+      "exampleTrans": "他躲在门后。"
+    },
+    {
+      "id": "cet4_113",
+      "word": "being",
+      "phonetic": "/ˈbiːɪŋ/",
+      "meaning": "n. 存在，生物",
+      "example": "A human being needs love.",
+      "exampleTrans": "人需要爱。"
+    },
+    {
+      "id": "cet4_114",
+      "word": "belief",
+      "phonetic": "/bɪˈliːf/",
+      "meaning": "n. 相信，信念",
+      "example": "It is my belief that he is honest.",
+      "exampleTrans": "我相信他是诚实的。"
+    },
+    {
+      "id": "cet4_115",
+      "word": "believe",
+      "phonetic": "/bɪˈliːv/",
+      "meaning": "v. 相信，认为",
+      "example": "I believe you.",
+      "exampleTrans": "我相信你。"
+    },
+    {
+      "id": "cet4_116",
+      "word": "bell",
+      "phonetic": "/bel/",
+      "meaning": "n. 铃，钟",
+      "example": "The bell rang.",
+      "exampleTrans": "铃响了。"
+    },
+    {
+      "id": "cet4_117",
+      "word": "belong",
+      "phonetic": "/bɪˈlɔːŋ/",
+      "meaning": "v. 属于",
+      "example": "This book belongs to me.",
+      "exampleTrans": "这本书属于我。"
+    },
+    {
+      "id": "cet4_118",
+      "word": "below",
+      "phonetic": "/bɪˈloʊ/",
+      "meaning": "prep. 在...下面",
+      "example": "See the note below.",
+      "exampleTrans": "见下面的注释。"
+    },
+    {
+      "id": "cet4_119",
+      "word": "belt",
+      "phonetic": "/belt/",
+      "meaning": "n. 腰带，地带",
+      "example": "He wore a leather belt.",
+      "exampleTrans": "他系着一条皮带。"
+    },
+    {
+      "id": "cet4_120",
+      "word": "benefit",
+      "phonetic": "/ˈbenɪfɪt/",
+      "meaning": "n. 益处，好处 v. 受益",
+      "example": "Exercise has many health benefits.",
+      "exampleTrans": "锻炼有很多健康益处。"
+    },
+    {
+      "id": "cet4_121",
+      "word": "blame",
+      "phonetic": "/bleɪm/",
+      "meaning": "v. 责备，责怪 n. 责任",
+      "example": "Don't blame me for your mistakes.",
+      "exampleTrans": "不要因为你的错误而责备我。"
+    },
+    {
+      "id": "cet4_122",
+      "word": "bless",
+      "phonetic": "/bles/",
+      "meaning": "v. 祝福，保佑",
+      "example": "God bless you.",
+      "exampleTrans": "上帝保佑你。"
+    },
+    {
+      "id": "cet4_123",
+      "word": "blow",
+      "phonetic": "/bloʊ/",
+      "meaning": "v. 吹，打击 n. 打击",
+      "example": "The wind is blowing hard.",
+      "exampleTrans": "风刮得很大。"
+    },
+    {
+      "id": "cet4_124",
+      "word": "board",
+      "phonetic": "/bɔːrd/",
+      "meaning": "n. 木板，董事会 v. 上船/车",
+      "example": "Please board the plane now.",
+      "exampleTrans": "请现在登机。"
+    },
+    {
+      "id": "cet4_125",
+      "word": "boil",
+      "phonetic": "/bɔɪl/",
+      "meaning": "v. 煮沸，沸腾",
+      "example": "Water boils at 100 degrees Celsius.",
+      "exampleTrans": "水在100摄氏度沸腾。"
+    },
+    {
+      "id": "cet4_126",
+      "word": "bomb",
+      "phonetic": "/bɑːm/",
+      "meaning": "n. 炸弹 v. 轰炸",
+      "example": "The bomb exploded.",
+      "exampleTrans": "炸弹爆炸了。"
+    },
+    {
+      "id": "cet4_127",
+      "word": "bond",
+      "phonetic": "/bɑːnd/",
+      "meaning": "n. 纽带，债券 v. 结合",
+      "example": "There is a strong bond between them.",
+      "exampleTrans": "他们之间有很强的纽带。"
+    },
+    {
+      "id": "cet4_128",
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "meaning": "n. 书 v. 预订",
+      "example": "I want to book a hotel room.",
+      "exampleTrans": "我想预订一个酒店房间。"
+    },
+    {
+      "id": "cet4_129",
+      "word": "boom",
+      "phonetic": "/buːm/",
+      "meaning": "n. 繁荣，轰鸣声 v. 迅速发展",
+      "example": "The economy is booming.",
+      "exampleTrans": "经济正在蓬勃发展。"
+    },
+    {
+      "id": "cet4_130",
+      "word": "boost",
+      "phonetic": "/buːst/",
+      "meaning": "v. 促进，提高 n. 推动",
+      "example": "This will boost our sales.",
+      "exampleTrans": "这将促进我们的销售。"
+    },
+    {
+      "id": "cet4_131",
+      "word": "border",
+      "phonetic": "/ˈbɔːrdər/",
+      "meaning": "n. 边界，边境",
+      "example": "The river forms a natural border.",
+      "exampleTrans": "这条河形成了天然边界。"
+    },
+    {
+      "id": "cet4_132",
+      "word": "borrow",
+      "phonetic": "/ˈbɔːroʊ/",
+      "meaning": "v. 借，借用",
+      "example": "Can I borrow your pen?",
+      "exampleTrans": "我能借你的笔吗？"
+    },
+    {
+      "id": "cet4_133",
+      "word": "bother",
+      "phonetic": "/ˈbɑːðər/",
+      "meaning": "v. 打扰，烦恼 n. 麻烦",
+      "example": "Don't bother me now.",
+      "exampleTrans": "现在别打扰我。"
+    },
+    {
+      "id": "cet4_134",
+      "word": "bounce",
+      "phonetic": "/baʊns/",
+      "meaning": "v. 弹跳，反弹",
+      "example": "The ball bounced off the wall.",
+      "exampleTrans": "球从墙上弹开。"
+    },
+    {
+      "id": "cet4_135",
+      "word": "bound",
+      "phonetic": "/baʊnd/",
+      "meaning": "adj. 必然的，受约束的",
+      "example": "We are bound to win.",
+      "exampleTrans": "我们一定会赢。"
+    },
+    {
+      "id": "cet4_136",
+      "word": "bowl",
+      "phonetic": "/boʊl/",
+      "meaning": "n. 碗，碗状物",
+      "example": "Put the rice in a bowl.",
+      "exampleTrans": "把米饭放进碗里。"
+    },
+    {
+      "id": "cet4_137",
+      "word": "brake",
+      "phonetic": "/breɪk/",
+      "meaning": "n. 刹车 v. 刹车",
+      "example": "He applied the brake suddenly.",
+      "exampleTrans": "他突然刹车。"
+    },
+    {
+      "id": "cet4_138",
+      "word": "branch",
+      "phonetic": "/bræntʃ/",
+      "meaning": "n. 树枝，分支",
+      "example": "The company has branches worldwide.",
+      "exampleTrans": "这家公司在全球有分支。"
+    },
+    {
+      "id": "cet4_139",
+      "word": "brand",
+      "phonetic": "/brænd/",
+      "meaning": "n. 品牌，商标",
+      "example": "What brand is this shirt?",
+      "exampleTrans": "这件衬衫是什么牌子的？"
+    },
+    {
+      "id": "cet4_140",
+      "word": "brave",
+      "phonetic": "/breɪv/",
+      "meaning": "adj. 勇敢的",
+      "example": "He was brave enough to speak up.",
+      "exampleTrans": "他很勇敢，敢于大声说出来。"
+    },
+    {
+      "id": "cet4_141",
+      "word": "break",
+      "phonetic": "/breɪk/",
+      "meaning": "v. 打破，休息 n. 休息",
+      "example": "Let's take a break.",
+      "exampleTrans": "让我们休息一下。"
+    },
+    {
+      "id": "cet4_142",
+      "word": "breast",
+      "phonetic": "/brest/",
+      "meaning": "n. 胸部，乳房",
+      "example": "She had breast cancer.",
+      "exampleTrans": "她患了乳腺癌。"
+    },
+    {
+      "id": "cet4_143",
+      "word": "breath",
+      "phonetic": "/breθ/",
+      "meaning": "n. 呼吸",
+      "example": "Take a deep breath.",
+      "exampleTrans": "深呼吸。"
+    },
+    {
+      "id": "cet4_144",
+      "word": "breathe",
+      "phonetic": "/briːð/",
+      "meaning": "v. 呼吸",
+      "example": "It's hard to breathe here.",
+      "exampleTrans": "这里呼吸困难。"
+    },
+    {
+      "id": "cet4_145",
+      "word": "breed",
+      "phonetic": "/briːd/",
+      "meaning": "v. 繁殖，饲养 n. 品种",
+      "example": "They breed horses on the farm.",
+      "exampleTrans": "他们在农场饲养马匹。"
+    },
+    {
+      "id": "cet4_146",
+      "word": "breeze",
+      "phonetic": "/briːz/",
+      "meaning": "n. 微风",
+      "example": "A cool breeze blew from the sea.",
+      "exampleTrans": "一阵凉爽的微风从海上吹来。"
+    },
+    {
+      "id": "cet4_147",
+      "word": "brick",
+      "phonetic": "/brɪk/",
+      "meaning": "n. 砖",
+      "example": "The house is made of bricks.",
+      "exampleTrans": "这房子是用砖砌的。"
+    },
+    {
+      "id": "cet4_148",
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "n. 桥，桥梁",
+      "example": "We crossed the bridge.",
+      "exampleTrans": "我们过了桥。"
+    },
+    {
+      "id": "cet4_149",
+      "word": "brief",
+      "phonetic": "/briːf/",
+      "meaning": "adj. 简短的 n. 摘要",
+      "example": "Please be brief.",
+      "exampleTrans": "请简短一些。"
+    },
+    {
+      "id": "cet4_150",
+      "word": "bright",
+      "phonetic": "/braɪt/",
+      "meaning": "adj. 明亮的，聪明的",
+      "example": "The sun is bright today.",
+      "exampleTrans": "今天阳光明媚。"
+    },
+    {
+      "id": "cet4_151",
+      "word": "brilliant",
+      "phonetic": "/ˈbrɪliənt/",
+      "meaning": "adj. 杰出的，辉煌的",
+      "example": "She has a brilliant mind.",
+      "exampleTrans": "她头脑聪明。"
+    },
+    {
+      "id": "cet4_152",
+      "word": "bring",
+      "phonetic": "/brɪŋ/",
+      "meaning": "v. 带来，拿来",
+      "example": "Please bring your book.",
+      "exampleTrans": "请带上你的书。"
+    },
+    {
+      "id": "cet4_153",
+      "word": "broad",
+      "phonetic": "/brɔːd/",
+      "meaning": "adj. 宽阔的，广泛的",
+      "example": "He has broad shoulders.",
+      "exampleTrans": "他肩膀宽阔。"
+    },
+    {
+      "id": "cet4_154",
+      "word": "broadcast",
+      "phonetic": "/ˈbrɔːdkæst/",
+      "meaning": "v. 广播，传播",
+      "example": "The game will be broadcast live.",
+      "exampleTrans": "比赛将进行现场直播。"
+    },
+    {
+      "id": "cet4_155",
+      "word": "brochure",
+      "phonetic": "/broʊˈʃʊr/",
+      "meaning": "n. 小册子",
+      "example": "Take a brochure from the desk.",
+      "exampleTrans": "从桌上拿一本小册子。"
+    },
+    {
+      "id": "cet4_156",
+      "word": "brow",
+      "phonetic": "/braʊ/",
+      "meaning": "n. 眉，额头",
+      "example": "He wiped his brow.",
+      "exampleTrans": "他擦了擦额头。"
+    },
+    {
+      "id": "cet4_157",
+      "word": "brush",
+      "phonetic": "/brʌʃ/",
+      "meaning": "n. 刷子 v. 刷",
+      "example": "Brush your teeth twice a day.",
+      "exampleTrans": "每天刷两次牙。"
+    },
+    {
+      "id": "cet4_158",
+      "word": "bubble",
+      "phonetic": "/ˈbʌbl/",
+      "meaning": "n. 气泡，泡沫",
+      "example": "Bubbles rose to the surface.",
+      "exampleTrans": "气泡升到水面。"
+    },
+    {
+      "id": "cet4_159",
+      "word": "bucket",
+      "phonetic": "/ˈbʌkɪt/",
+      "meaning": "n. 桶，水桶",
+      "example": "Fill the bucket with water.",
+      "exampleTrans": "把桶装满水。"
+    },
+    {
+      "id": "cet4_160",
+      "word": "budget",
+      "phonetic": "/ˈbʌdʒɪt/",
+      "meaning": "n. 预算",
+      "example": "We need to stay within budget.",
+      "exampleTrans": "我们需要在预算范围内。"
+    },
+    {
+      "id": "cet4_161",
+      "word": "buffet",
+      "phonetic": "/bəˈfeɪ/",
+      "meaning": "n. 自助餐",
+      "example": "The hotel serves a breakfast buffet.",
+      "exampleTrans": "酒店提供自助早餐。"
+    },
+    {
+      "id": "cet4_162",
+      "word": "build",
+      "phonetic": "/bɪld/",
+      "meaning": "v. 建造，建立",
+      "example": "They plan to build a new house.",
+      "exampleTrans": "他们计划建一座新房子。"
+    },
+    {
+      "id": "cet4_163",
+      "word": "bulb",
+      "phonetic": "/bʌlb/",
+      "meaning": "n. 灯泡",
+      "example": "The light bulb burned out.",
+      "exampleTrans": "灯泡烧坏了。"
+    },
+    {
+      "id": "cet4_164",
+      "word": "bulk",
+      "phonetic": "/bʌlk/",
+      "meaning": "n. 体积，大部分",
+      "example": "He bought the supplies in bulk.",
+      "exampleTrans": "他批量购买了物资。"
+    },
+    {
+      "id": "cet4_165",
+      "word": "bull",
+      "phonetic": "/bʊl/",
+      "meaning": "n. 公牛",
+      "example": "The bull charged at the matador.",
+      "exampleTrans": "公牛向斗牛士冲去。"
+    },
+    {
+      "id": "cet4_166",
+      "word": "bullet",
+      "phonetic": "/ˈbʊlɪt/",
+      "meaning": "n. 子弹",
+      "example": "The bullet missed its target.",
+      "exampleTrans": "子弹没有击中目标。"
+    },
+    {
+      "id": "cet4_167",
+      "word": "bunch",
+      "phonetic": "/bʌntʃ/",
+      "meaning": "n. 一束，一群",
+      "example": "She bought a bunch of flowers.",
+      "exampleTrans": "她买了一束花。"
+    },
+    {
+      "id": "cet4_168",
+      "word": "bundle",
+      "phonetic": "/ˈbʌndl/",
+      "meaning": "n. 捆，束",
+      "example": "He carried a bundle of sticks.",
+      "exampleTrans": "他扛着一捆柴。"
+    },
+    {
+      "id": "cet4_169",
+      "word": "burden",
+      "phonetic": "/ˈbɜːrdn/",
+      "meaning": "n. 负担，责任",
+      "example": "Taxes are a burden on business.",
+      "exampleTrans": "税收是企业的一项负担。"
+    },
+    {
+      "id": "cet4_170",
+      "word": "burn",
+      "phonetic": "/bɜːrn/",
+      "meaning": "v. 燃烧，烧伤",
+      "example": "The fire is still burning.",
+      "exampleTrans": "火还在燃烧。"
+    },
+    {
+      "id": "cet4_171",
+      "word": "burst",
+      "phonetic": "/bɜːrst/",
+      "meaning": "v. 爆发，爆裂",
+      "example": "The pipe burst.",
+      "exampleTrans": "管道爆裂了。"
+    },
+    {
+      "id": "cet4_172",
+      "word": "bury",
+      "phonetic": "/ˈberi/",
+      "meaning": "v. 埋葬，掩埋",
+      "example": "They buried the treasure.",
+      "exampleTrans": "他们埋藏了宝藏。"
+    },
+    {
+      "id": "cet4_173",
+      "word": "bush",
+      "phonetic": "/bʊʃ/",
+      "meaning": "n. 灌木丛",
+      "example": "A bird hid in the bush.",
+      "exampleTrans": "一只鸟躲在灌木丛中。"
+    },
+    {
+      "id": "cet4_174",
+      "word": "business",
+      "phonetic": "/ˈbɪznəs/",
+      "meaning": "n. 商业，生意",
+      "example": "He started his own business.",
+      "exampleTrans": "他开始了自己的生意。"
+    },
+    {
+      "id": "cet4_175",
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meaning": "adj. 忙碌的",
+      "example": "I'm busy with work.",
+      "exampleTrans": "我忙于工作。"
+    },
+    {
+      "id": "cet4_176",
+      "word": "butcher",
+      "phonetic": "/ˈbʊtʃər/",
+      "meaning": "n. 屠夫",
+      "example": "The butcher cut the meat.",
+      "exampleTrans": "屠夫切肉。"
+    },
+    {
+      "id": "cet4_177",
+      "word": "butter",
+      "phonetic": "/ˈbʌtər/",
+      "meaning": "n. 黄油",
+      "example": "Spread butter on the bread.",
+      "exampleTrans": "在面包上涂黄油。"
+    },
+    {
+      "id": "cet4_178",
+      "word": "button",
+      "phonetic": "/ˈbʌtn/",
+      "meaning": "n. 按钮，纽扣",
+      "example": "Press the red button.",
+      "exampleTrans": "按红色按钮。"
+    },
+    {
+      "id": "cet4_179",
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meaning": "v. 购买",
+      "example": "I want to buy a new car.",
+      "exampleTrans": "我想买一辆新车。"
+    },
+    {
+      "id": "cet4_180",
+      "word": "buzz",
+      "phonetic": "/bʌz/",
+      "meaning": "v. 嗡嗡叫 n. 嗡嗡声",
+      "example": "Bees buzz around the flowers.",
+      "exampleTrans": "蜜蜂在花丛中嗡嗡叫。"
+    },
+    {
+      "id": "cet4_181",
+      "word": "cab",
+      "phonetic": "/kæb/",
+      "meaning": "n. 出租车",
+      "example": "Let's take a cab.",
+      "exampleTrans": "我们坐出租车吧。"
+    },
+    {
+      "id": "cet4_182",
+      "word": "cabbage",
+      "phonetic": "/ˈkæbɪdʒ/",
+      "meaning": "n. 卷心菜",
+      "example": "She cooked some cabbage.",
+      "exampleTrans": "她煮了一些卷心菜。"
+    },
+    {
+      "id": "cet4_183",
+      "word": "cabin",
+      "phonetic": "/ˈkæbɪn/",
+      "meaning": "n. 小屋，机舱",
+      "example": "We stayed in a log cabin.",
+      "exampleTrans": "我们住在一间小木屋里。"
+    },
+    {
+      "id": "cet4_184",
+      "word": "cabinet",
+      "phonetic": "/ˈkæbɪnət/",
+      "meaning": "n. 橱柜，内阁",
+      "example": "The dishes are in the cabinet.",
+      "exampleTrans": "碗碟在橱柜里。"
+    },
+    {
+      "id": "cet4_185",
+      "word": "cable",
+      "phonetic": "/ˈkeɪbl/",
+      "meaning": "n. 电缆，缆绳",
+      "example": "The cable is broken.",
+      "exampleTrans": "电缆断了。"
+    },
+    {
+      "id": "cet4_186",
+      "word": "cafe",
+      "phonetic": "/kæˈfeɪ/",
+      "meaning": "n. 咖啡馆",
+      "example": "Let's meet at the cafe.",
+      "exampleTrans": "我们在咖啡馆见面吧。"
+    },
+    {
+      "id": "cet4_187",
+      "word": "cafeteria",
+      "phonetic": "/ˌkæfəˈtɪriə/",
+      "meaning": "n. 自助餐厅",
+      "example": "The school has a cafeteria.",
+      "exampleTrans": "学校有一个自助餐厅。"
+    },
+    {
+      "id": "cet4_188",
+      "word": "cage",
+      "phonetic": "/keɪdʒ/",
+      "meaning": "n. 笼子",
+      "example": "The bird is in the cage.",
+      "exampleTrans": "鸟在笼子里。"
+    },
+    {
+      "id": "cet4_189",
+      "word": "cake",
+      "phonetic": "/keɪk/",
+      "meaning": "n. 蛋糕",
+      "example": "She baked a birthday cake.",
+      "exampleTrans": "她烤了一个生日蛋糕。"
+    },
+    {
+      "id": "cet4_190",
+      "word": "calculate",
+      "phonetic": "/ˈkælkjuleɪt/",
+      "meaning": "v. 计算，估计",
+      "example": "Calculate the total cost.",
+      "exampleTrans": "计算总费用。"
+    },
+    {
+      "id": "cet4_191",
+      "word": "calendar",
+      "phonetic": "/ˈkælɪndər/",
+      "meaning": "n. 日历",
+      "example": "Mark the date on your calendar.",
+      "exampleTrans": "在日历上标记日期。"
+    },
+    {
+      "id": "cet4_192",
+      "word": "call",
+      "phonetic": "/kɔːl/",
+      "meaning": "v. 打电话，称呼 n. 电话",
+      "example": "I'll call you tomorrow.",
+      "exampleTrans": "我明天给你打电话。"
+    },
+    {
+      "id": "cet4_193",
+      "word": "calm",
+      "phonetic": "/kɑːm/",
+      "meaning": "adj. 平静的 v. 使平静",
+      "example": "Keep calm and carry on.",
+      "exampleTrans": "保持冷静，继续前进。"
+    },
+    {
+      "id": "cet4_194",
+      "word": "camel",
+      "phonetic": "/ˈkæml/",
+      "meaning": "n. 骆驼",
+      "example": "Camels live in the desert.",
+      "exampleTrans": "骆驼生活在沙漠中。"
+    },
+    {
+      "id": "cet4_195",
+      "word": "camera",
+      "phonetic": "/ˈkæmərə/",
+      "meaning": "n. 照相机",
+      "example": "I bought a new camera.",
+      "exampleTrans": "我买了一台新相机。"
+    },
+    {
+      "id": "cet4_196",
+      "word": "camp",
+      "phonetic": "/kæmp/",
+      "meaning": "n. 营地 v. 露营",
+      "example": "We went camping last summer.",
+      "exampleTrans": "去年夏天我们去露营了。"
+    },
+    {
+      "id": "cet4_197",
+      "word": "campaign",
+      "phonetic": "/kæmˈpeɪn/",
+      "meaning": "n. 运动，活动",
+      "example": "The election campaign started.",
+      "exampleTrans": "选举活动开始了。"
+    },
+    {
+      "id": "cet4_198",
+      "word": "campus",
+      "phonetic": "/ˈkæmpəs/",
+      "meaning": "n. 校园",
+      "example": "The campus is beautiful.",
+      "exampleTrans": "校园很美。"
+    },
+    {
+      "id": "cet4_199",
+      "word": "canal",
+      "phonetic": "/kəˈnæl/",
+      "meaning": "n. 运河，水道",
+      "example": "The Panama Canal connects two oceans.",
+      "exampleTrans": "巴拿马运河连接两个大洋。"
+    },
+    {
+      "id": "cet4_200",
+      "word": "cancel",
+      "phonetic": "/ˈkænsl/",
+      "meaning": "v. 取消",
+      "example": "We had to cancel the meeting.",
+      "exampleTrans": "我们不得不取消会议。"
+    }
+  ]
+}

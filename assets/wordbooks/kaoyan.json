@@ -1,0 +1,1238 @@
+{
+  "id": "kaoyan",
+  "name": "考研核心词",
+  "words": [
+    {
+      "id": "kaoyan_001",
+      "word": "ephemeral",
+      "phonetic": "/ɪˈfemərəl/",
+      "meaning": "adj. 短暂的，瞬息的",
+      "example": "Fame in show business is ephemeral.",
+      "exampleTrans": "演艺界的名声是短暂的。"
+    },
+    {
+      "id": "kaoyan_002",
+      "word": "pragmatic",
+      "phonetic": "/præɡˈmætɪk/",
+      "meaning": "adj. 实用的，务实的",
+      "example": "We need a pragmatic approach to the problem.",
+      "exampleTrans": "我们需要用务实的方法解决这个问题。"
+    },
+    {
+      "id": "kaoyan_003",
+      "word": "ubiquitous",
+      "phonetic": "/juːˈbɪkwɪtəs/",
+      "meaning": "adj. 无处不在的",
+      "example": "Smartphones have become ubiquitous.",
+      "exampleTrans": "智能手机已经无处不在。"
+    },
+    {
+      "id": "kaoyan_004",
+      "word": "paradigm",
+      "phonetic": "/ˈpærədaɪm/",
+      "meaning": "n. 典范，范式",
+      "example": "This is a new paradigm for education.",
+      "exampleTrans": "这是教育的新范式。"
+    },
+    {
+      "id": "kaoyan_005",
+      "word": "dichotomy",
+      "phonetic": "/daɪˈkɑːtəmi/",
+      "meaning": "n. 二分法，分裂",
+      "example": "There is a dichotomy between theory and practice.",
+      "exampleTrans": "理论与实践之间存在分歧。"
+    },
+    {
+      "id": "kaoyan_006",
+      "word": "hegemony",
+      "phonetic": "/hɪˈdʒemoʊni/",
+      "meaning": "n. 霸权，统治权",
+      "example": "The country sought regional hegemony.",
+      "exampleTrans": "该国寻求地区霸权。"
+    },
+    {
+      "id": "kaoyan_007",
+      "word": "empirical",
+      "phonetic": "/ɪmˈpɪrɪkl/",
+      "meaning": "adj. 经验的，实证的",
+      "example": "This theory lacks empirical evidence.",
+      "exampleTrans": "这个理论缺乏实证证据。"
+    },
+    {
+      "id": "kaoyan_008",
+      "word": "metaphor",
+      "phonetic": "/ˈmetəfər/",
+      "meaning": "n. 隐喻，暗喻",
+      "example": "'Time is money' is a common metaphor.",
+      "exampleTrans": "'时间就是金钱'是一个常见的隐喻。"
+    },
+    {
+      "id": "kaoyan_009",
+      "word": "rhetoric",
+      "phonetic": "/ˈretərɪk/",
+      "meaning": "n. 修辞，华丽的辞藻",
+      "example": "His speech was empty rhetoric.",
+      "exampleTrans": "他的演讲只是空洞的辞藻。"
+    },
+    {
+      "id": "kaoyan_010",
+      "word": "tenuous",
+      "phonetic": "/ˈtenjuəs/",
+      "meaning": "adj. 脆弱的，纤细的",
+      "example": "The connection between them is tenuous.",
+      "exampleTrans": "他们之间的联系很脆弱。"
+    },
+    {
+      "id": "kaoyan_011",
+      "word": "nuance",
+      "phonetic": "/ˈnuːɑːns/",
+      "meaning": "n. 细微差别",
+      "example": "She understands the nuances of the language.",
+      "exampleTrans": "她理解这门语言的细微差别。"
+    },
+    {
+      "id": "kaoyan_012",
+      "word": "esoteric",
+      "phonetic": "/ˌesəˈterɪk/",
+      "meaning": "adj. 秘传的，深奥的",
+      "example": "The subject is too esoteric for most people.",
+      "exampleTrans": "这个主题对大多数人来说太深奥了。"
+    },
+    {
+      "id": "kaoyan_013",
+      "word": "prerequisite",
+      "phonetic": "/ˌpriːˈrekwəzɪt/",
+      "meaning": "n. 先决条件，前提",
+      "example": "A degree is a prerequisite for this job.",
+      "exampleTrans": "学位是这份工作的先决条件。"
+    },
+    {
+      "id": "kaoyan_014",
+      "word": "substantiate",
+      "phonetic": "/səbˈstænʃieɪt/",
+      "meaning": "v. 证实，实体化",
+      "example": "Can you substantiate your claims?",
+      "exampleTrans": "你能证实你的说法吗？"
+    },
+    {
+      "id": "kaoyan_015",
+      "word": "disparate",
+      "phonetic": "/ˈdɪspərət/",
+      "meaning": "adj. 迥然不同的",
+      "example": "They come from disparate backgrounds.",
+      "exampleTrans": "他们来自截然不同的背景。"
+    },
+    {
+      "id": "kaoyan_016",
+      "word": "elucidate",
+      "phonetic": "/ɪˈluːsɪdeɪt/",
+      "meaning": "v. 阐明，解释清楚",
+      "example": "Let me elucidate my point.",
+      "exampleTrans": "让我阐明我的观点。"
+    },
+    {
+      "id": "kaoyan_017",
+      "word": "cogent",
+      "phonetic": "/ˈkoʊdʒənt/",
+      "meaning": "adj. 有说服力的，令人信服的",
+      "example": "He presented a cogent argument.",
+      "exampleTrans": "他提出了一个有说服力的论点。"
+    },
+    {
+      "id": "kaoyan_018",
+      "word": "extraneous",
+      "phonetic": "/ɪkˈstreɪniəs/",
+      "meaning": "adj. 外来的，无关的",
+      "example": "Please ignore any extraneous information.",
+      "exampleTrans": "请忽略任何无关信息。"
+    },
+    {
+      "id": "kaoyan_019",
+      "word": "mundane",
+      "phonetic": "/mʌnˈdeɪn/",
+      "meaning": "adj. 平凡的，世俗的",
+      "example": "He escaped from mundane reality through reading.",
+      "exampleTrans": "他通过阅读逃离平凡的现实。"
+    },
+    {
+      "id": "kaoyan_020",
+      "word": "prosaic",
+      "phonetic": "/prəˈzeɪɪk/",
+      "meaning": "adj. 散文的，平凡的",
+      "example": "The reality is more prosaic than the myth.",
+      "exampleTrans": "现实比神话更平凡。"
+    },
+    {
+      "id": "kaoyan_021",
+      "word": "banana",
+      "phonetic": "/bəˈnænə/",
+      "meaning": "n. 香蕉",
+      "example": "I eat a banana every morning.",
+      "exampleTrans": "我每天早上吃一根香蕉。"
+    },
+    {
+      "id": "kaoyan_022",
+      "word": "band",
+      "phonetic": "/bænd/",
+      "meaning": "n. 乐队，带子 v. 联合",
+      "example": "The band played all night.",
+      "exampleTrans": "乐队演奏了一整晚。"
+    },
+    {
+      "id": "kaoyan_023",
+      "word": "bang",
+      "phonetic": "/bæŋ/",
+      "meaning": "n. 巨响 v. 猛击",
+      "example": "The door shut with a bang.",
+      "exampleTrans": "门砰的一声关上了。"
+    },
+    {
+      "id": "kaoyan_024",
+      "word": "bankrupt",
+      "phonetic": "/ˈbæŋkrʌpt/",
+      "meaning": "adj. 破产的",
+      "example": "The company went bankrupt.",
+      "exampleTrans": "这家公司破产了。"
+    },
+    {
+      "id": "kaoyan_025",
+      "word": "banner",
+      "phonetic": "/ˈbænər/",
+      "meaning": "n. 横幅，旗帜",
+      "example": "A welcome banner hung over the door.",
+      "exampleTrans": "门上挂着欢迎横幅。"
+    },
+    {
+      "id": "kaoyan_026",
+      "word": "banquet",
+      "phonetic": "/ˈbæŋkwɪt/",
+      "meaning": "n. 宴会",
+      "example": "They held a banquet in his honor.",
+      "exampleTrans": "他们为他举行了宴会。"
+    },
+    {
+      "id": "kaoyan_027",
+      "word": "barely",
+      "phonetic": "/ˈberli/",
+      "meaning": "adv. 仅仅，勉强",
+      "example": "I barely had time to finish.",
+      "exampleTrans": "我几乎没有时间完成。"
+    },
+    {
+      "id": "kaoyan_028",
+      "word": "bargain",
+      "phonetic": "/ˈbɑːrɡən/",
+      "meaning": "n. 交易，便宜货 v. 讨价还价",
+      "example": "This shirt was a real bargain.",
+      "exampleTrans": "这件衬衫真便宜。"
+    },
+    {
+      "id": "kaoyan_029",
+      "word": "bark",
+      "phonetic": "/bɑːrk/",
+      "meaning": "v. 吠叫 n. 树皮",
+      "example": "The dog barked at strangers.",
+      "exampleTrans": "狗对陌生人吠叫。"
+    },
+    {
+      "id": "kaoyan_030",
+      "word": "barn",
+      "phonetic": "/bɑːrn/",
+      "meaning": "n. 谷仓",
+      "example": "The farmer stored hay in the barn.",
+      "exampleTrans": "农民把干草存放在谷仓里。"
+    },
+    {
+      "id": "kaoyan_031",
+      "word": "barrel",
+      "phonetic": "/ˈbærəl/",
+      "meaning": "n. 桶",
+      "example": "Oil is sold by the barrel.",
+      "exampleTrans": "石油按桶出售。"
+    },
+    {
+      "id": "kaoyan_032",
+      "word": "barren",
+      "phonetic": "/ˈbærən/",
+      "meaning": "adj. 贫瘠的，不毛的",
+      "example": "The land was too barren to farm.",
+      "exampleTrans": "这片土地太贫瘠，无法耕种。"
+    },
+    {
+      "id": "kaoyan_033",
+      "word": "barrier",
+      "phonetic": "/ˈbæriər/",
+      "meaning": "n. 障碍，屏障",
+      "example": "Language is a barrier to communication.",
+      "exampleTrans": "语言是交流的障碍。"
+    },
+    {
+      "id": "kaoyan_034",
+      "word": "baseball",
+      "phonetic": "/ˈbeɪsbɔːl/",
+      "meaning": "n. 棒球",
+      "example": "Baseball is popular in America.",
+      "exampleTrans": "棒球在美国很受欢迎。"
+    },
+    {
+      "id": "kaoyan_035",
+      "word": "basement",
+      "phonetic": "/ˈbeɪsmənt/",
+      "meaning": "n. 地下室",
+      "example": "They store old boxes in the basement.",
+      "exampleTrans": "他们把旧箱子存放在地下室。"
+    },
+    {
+      "id": "kaoyan_036",
+      "word": "basin",
+      "phonetic": "/ˈbeɪsn/",
+      "meaning": "n. 盆，盆地",
+      "example": "The Amazon basin is very large.",
+      "exampleTrans": "亚马逊盆地非常大。"
+    },
+    {
+      "id": "kaoyan_037",
+      "word": "basis",
+      "phonetic": "/ˈbeɪsɪs/",
+      "meaning": "n. 基础，根据",
+      "example": "We meet on a weekly basis.",
+      "exampleTrans": "我们每周见面一次。"
+    },
+    {
+      "id": "kaoyan_038",
+      "word": "bat",
+      "phonetic": "/bæt/",
+      "meaning": "n. 球棒，蝙蝠",
+      "example": "He hit the ball with a bat.",
+      "exampleTrans": "他用球棒击球。"
+    },
+    {
+      "id": "kaoyan_039",
+      "word": "batch",
+      "phonetic": "/bætʃ/",
+      "meaning": "n. 一批",
+      "example": "The bakery produced a fresh batch of bread.",
+      "exampleTrans": "面包店生产了一批新鲜面包。"
+    },
+    {
+      "id": "kaoyan_040",
+      "word": "battery",
+      "phonetic": "/ˈbætəri/",
+      "meaning": "n. 电池",
+      "example": "The battery needs to be charged.",
+      "exampleTrans": "电池需要充电。"
+    },
+    {
+      "id": "kaoyan_041",
+      "word": "abide",
+      "phonetic": "/əˈbaɪd/",
+      "meaning": "v. 遵守，忍受",
+      "example": "You must abide by the rules.",
+      "exampleTrans": "你必须遵守规则。"
+    },
+    {
+      "id": "kaoyan_042",
+      "word": "abnormal",
+      "phonetic": "/æbˈnɔːrml/",
+      "meaning": "adj. 异常的",
+      "example": "This weather is abnormal for February.",
+      "exampleTrans": "这种天气在二月份是不正常的。"
+    },
+    {
+      "id": "kaoyan_043",
+      "word": "abolish",
+      "phonetic": "/əˈbɑːlɪʃ/",
+      "meaning": "v. 废除",
+      "example": "Slavery was abolished in the 19th century.",
+      "exampleTrans": "奴隶制在19世纪被废除。"
+    },
+    {
+      "id": "kaoyan_044",
+      "word": "abound",
+      "phonetic": "/əˈbaʊnd/",
+      "meaning": "v. 大量存在",
+      "example": "Natural resources abound here.",
+      "exampleTrans": "这里自然资源丰富。"
+    },
+    {
+      "id": "kaoyan_045",
+      "word": "abrupt",
+      "phonetic": "/əˈbrʌpt/",
+      "meaning": "adj. 突然的",
+      "example": "The bus came to an abrupt stop.",
+      "exampleTrans": "公交车突然停下。"
+    },
+    {
+      "id": "kaoyan_046",
+      "word": "absolute",
+      "phonetic": "/ˈæbsəluːt/",
+      "meaning": "adj. 绝对的",
+      "example": "I have absolute trust in you.",
+      "exampleTrans": "我绝对信任你。"
+    },
+    {
+      "id": "kaoyan_047",
+      "word": "absorb",
+      "phonetic": "/əbˈzɔːrb/",
+      "meaning": "v. 吸收，理解",
+      "example": "Plants absorb carbon dioxide.",
+      "exampleTrans": "植物吸收二氧化碳。"
+    },
+    {
+      "id": "kaoyan_048",
+      "word": "abstract",
+      "phonetic": "/ˈæbstrækt/",
+      "meaning": "adj. 抽象的",
+      "example": "Truth is an abstract concept.",
+      "exampleTrans": "真理是抽象概念。"
+    },
+    {
+      "id": "kaoyan_049",
+      "word": "absurd",
+      "phonetic": "/əbˈsɜːrd/",
+      "meaning": "adj. 荒谬的",
+      "example": "That idea is absurd.",
+      "exampleTrans": "那个想法很荒谬。"
+    },
+    {
+      "id": "kaoyan_050",
+      "word": "abundance",
+      "phonetic": "/əˈbʌndəns/",
+      "meaning": "n. 丰富",
+      "example": "We live in an era of abundance.",
+      "exampleTrans": "我们生活在富足时代。"
+    },
+    {
+      "id": "kaoyan_051",
+      "word": "abundant",
+      "phonetic": "/əˈbʌndənt/",
+      "meaning": "adj. 丰富的",
+      "example": "Rainfall is abundant here.",
+      "exampleTrans": "这里降雨丰富。"
+    },
+    {
+      "id": "kaoyan_052",
+      "word": "abuse",
+      "phonetic": "/əˈbjuːs/",
+      "meaning": "n./v. 滥用",
+      "example": "Drug abuse is a serious problem.",
+      "exampleTrans": "药物滥用是严重问题。"
+    },
+    {
+      "id": "kaoyan_053",
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "meaning": "adj. 学术的",
+      "example": "She has a strong academic record.",
+      "exampleTrans": "她学业成绩优异。"
+    },
+    {
+      "id": "kaoyan_054",
+      "word": "academy",
+      "phonetic": "/əˈkædəmi/",
+      "meaning": "n. 学院",
+      "example": "He was accepted into the academy.",
+      "exampleTrans": "他被学院录取了。"
+    },
+    {
+      "id": "kaoyan_055",
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "meaning": "v. 加速",
+      "example": "Inflation continues to accelerate.",
+      "exampleTrans": "通货膨胀持续加速。"
+    },
+    {
+      "id": "kaoyan_056",
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "meaning": "n. 通道",
+      "example": "Students need access to good books.",
+      "exampleTrans": "学生需要使用好书的权利。"
+    },
+    {
+      "id": "kaoyan_057",
+      "word": "accessory",
+      "phonetic": "/əkˈsesəri/",
+      "meaning": "n. 配件",
+      "example": "Accessories for the car are expensive.",
+      "exampleTrans": "汽车配件很贵。"
+    },
+    {
+      "id": "kaoyan_058",
+      "word": "accident",
+      "phonetic": "/ˈæksɪdənt/",
+      "meaning": "n. 事故",
+      "example": "It was just an accident.",
+      "exampleTrans": "这只是个意外。"
+    },
+    {
+      "id": "kaoyan_059",
+      "word": "acclaim",
+      "phonetic": "/əˈkleɪm/",
+      "meaning": "n./v. 称赞",
+      "example": "The novel received great acclaim.",
+      "exampleTrans": "这部小说受到了高度赞扬。"
+    },
+    {
+      "id": "kaoyan_060",
+      "word": "accommodate",
+      "phonetic": "/əˈkɑːmədeɪt/",
+      "meaning": "v. 容纳",
+      "example": "The hotel can accommodate 500 guests.",
+      "exampleTrans": "这家酒店可容纳500位客人。"
+    },
+    {
+      "id": "kaoyan_061",
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "meaning": "v. 陪伴",
+      "example": "She accompanied me to the doctor.",
+      "exampleTrans": "她陪我去看了医生。"
+    },
+    {
+      "id": "kaoyan_062",
+      "word": "accomplish",
+      "phonetic": "/əˈkʌmplɪʃ/",
+      "meaning": "v. 完成",
+      "example": "He accomplished his mission.",
+      "exampleTrans": "他完成了他的使命。"
+    },
+    {
+      "id": "kaoyan_063",
+      "word": "accord",
+      "phonetic": "/əˈkɔːrd/",
+      "meaning": "v. 一致",
+      "example": "His views are in accord with mine.",
+      "exampleTrans": "他的观点与我的一致。"
+    },
+    {
+      "id": "kaoyan_064",
+      "word": "accordance",
+      "phonetic": "/əˈkɔːrdns/",
+      "meaning": "n. 按照",
+      "example": "In accordance with your request.",
+      "exampleTrans": "按照你的要求。"
+    },
+    {
+      "id": "kaoyan_065",
+      "word": "accordingly",
+      "phonetic": "/əˈkɔːrdɪŋli/",
+      "meaning": "adv. 因此",
+      "example": "He cut short his remarks accordingly.",
+      "exampleTrans": "因此他缩短了讲话。"
+    },
+    {
+      "id": "kaoyan_066",
+      "word": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "meaning": "n. 账户",
+      "example": "I have an account at that bank.",
+      "exampleTrans": "我在那家银行有账户。"
+    },
+    {
+      "id": "kaoyan_067",
+      "word": "accountant",
+      "phonetic": "/əˈkaʊntənt/",
+      "meaning": "n. 会计师",
+      "example": "You should consult an accountant.",
+      "exampleTrans": "你应该咨询会计师。"
+    },
+    {
+      "id": "kaoyan_068",
+      "word": "accumulate",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "meaning": "v. 积累",
+      "example": "Dust accumulated on the shelves.",
+      "exampleTrans": "灰尘在架子上积聚。"
+    },
+    {
+      "id": "kaoyan_069",
+      "word": "accuracy",
+      "phonetic": "/ˈækjərəsi/",
+      "meaning": "n. 准确性",
+      "example": "The accuracy is questionable.",
+      "exampleTrans": "准确性值得怀疑。"
+    },
+    {
+      "id": "kaoyan_070",
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meaning": "adj. 精确的",
+      "example": "The forecast was accurate.",
+      "exampleTrans": "预报是准确的。"
+    },
+    {
+      "id": "kaoyan_071",
+      "word": "accuse",
+      "phonetic": "/əˈkjuːz/",
+      "meaning": "v. 控告",
+      "example": "He was accused of stealing.",
+      "exampleTrans": "他被指控偷窃。"
+    },
+    {
+      "id": "kaoyan_072",
+      "word": "accustomed",
+      "phonetic": "/əˈkʌstəmd/",
+      "meaning": "adj. 习惯的",
+      "example": "I am accustomed to working hard.",
+      "exampleTrans": "我习惯于努力工作。"
+    },
+    {
+      "id": "kaoyan_073",
+      "word": "achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "meaning": "v. 达到",
+      "example": "She achieved her goal.",
+      "exampleTrans": "她实现了目标。"
+    },
+    {
+      "id": "kaoyan_074",
+      "word": "achievement",
+      "phonetic": "/əˈtʃiːvmənt/",
+      "meaning": "n. 成就",
+      "example": "Winning the prize was a great achievement.",
+      "exampleTrans": "获奖是一项伟大成就。"
+    },
+    {
+      "id": "kaoyan_075",
+      "word": "acid",
+      "phonetic": "/ˈæsɪd/",
+      "meaning": "n. 酸",
+      "example": "Lemons contain citric acid.",
+      "exampleTrans": "柠檬含有柠檬酸。"
+    },
+    {
+      "id": "kaoyan_076",
+      "word": "acknowledge",
+      "phonetic": "/əkˈnɑːlɪdʒ/",
+      "meaning": "v. 承认",
+      "example": "He acknowledged his mistake.",
+      "exampleTrans": "他承认了他的错误。"
+    },
+    {
+      "id": "kaoyan_077",
+      "word": "acquaint",
+      "phonetic": "/əˈkweɪnt/",
+      "meaning": "v. 使熟悉",
+      "example": "Let me acquaint you with the facts.",
+      "exampleTrans": "让我让你了解事实。"
+    },
+    {
+      "id": "kaoyan_078",
+      "word": "acquaintance",
+      "phonetic": "/əˈkweɪntəns/",
+      "meaning": "n. 熟人",
+      "example": "He is a casual acquaintance.",
+      "exampleTrans": "他是个泛泛之交。"
+    },
+    {
+      "id": "kaoyan_079",
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪər/",
+      "meaning": "v. 获得",
+      "example": "She acquired a good knowledge.",
+      "exampleTrans": "她学到了很好的知识。"
+    },
+    {
+      "id": "kaoyan_080",
+      "word": "acquisition",
+      "phonetic": "/ˌækwɪˈzɪʃn/",
+      "meaning": "n. 获得",
+      "example": "The company made acquisitions.",
+      "exampleTrans": "公司进行了收购。"
+    },
+    {
+      "id": "kaoyan_081",
+      "word": "acre",
+      "phonetic": "/ˈeɪkər/",
+      "meaning": "n. 英亩",
+      "example": "The farm covers 500 acres.",
+      "exampleTrans": "农场占地500英亩。"
+    },
+    {
+      "id": "kaoyan_082",
+      "word": "acrobat",
+      "phonetic": "/ˈækrəbæt/",
+      "meaning": "n. 杂技演员",
+      "example": "The acrobats performed amazing feats.",
+      "exampleTrans": "杂技演员表演了惊人的技艺。"
+    },
+    {
+      "id": "kaoyan_083",
+      "word": "across",
+      "phonetic": "/əˈkrɔːs/",
+      "meaning": "prep. 穿过",
+      "example": "He walked across the street.",
+      "exampleTrans": "他穿过街道。"
+    },
+    {
+      "id": "kaoyan_084",
+      "word": "act",
+      "phonetic": "/ækt/",
+      "meaning": "v. 行动",
+      "example": "The time to act is now.",
+      "exampleTrans": "行动的时刻就是现在。"
+    },
+    {
+      "id": "kaoyan_085",
+      "word": "action",
+      "phonetic": "/ˈækʃn/",
+      "meaning": "n. 行动",
+      "example": "Actions speak louder.",
+      "exampleTrans": "行动胜于言辞。"
+    },
+    {
+      "id": "kaoyan_086",
+      "word": "activate",
+      "phonetic": "/ˈæktɪveɪt/",
+      "meaning": "v. 激活",
+      "example": "You need to activate your account.",
+      "exampleTrans": "你需要激活账户。"
+    },
+    {
+      "id": "kaoyan_087",
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "adj. 活跃的",
+      "example": "She is active in service.",
+      "exampleTrans": "她积极参与服务。"
+    },
+    {
+      "id": "kaoyan_088",
+      "word": "activity",
+      "phonetic": "/ækˈtɪvəti/",
+      "meaning": "n. 活动",
+      "example": "Outdoor activities are good.",
+      "exampleTrans": "户外活动有益。"
+    },
+    {
+      "id": "kaoyan_089",
+      "word": "actor",
+      "phonetic": "/ˈæktər/",
+      "meaning": "n. 演员",
+      "example": "He is a famous actor.",
+      "exampleTrans": "他是著名演员。"
+    },
+    {
+      "id": "kaoyan_090",
+      "word": "actress",
+      "phonetic": "/ˈæktrəs/",
+      "meaning": "n. 女演员",
+      "example": "She won best actress.",
+      "exampleTrans": "她获得了最佳女演员。"
+    },
+    {
+      "id": "kaoyan_091",
+      "word": "actual",
+      "phonetic": "/ˈæktʃuəl/",
+      "meaning": "adj. 实际的",
+      "example": "What is the actual cost?",
+      "exampleTrans": "实际成本是多少？"
+    },
+    {
+      "id": "kaoyan_092",
+      "word": "acute",
+      "phonetic": "/əˈkjuːt/",
+      "meaning": "adj. 严重的",
+      "example": "The patient has acute pain.",
+      "exampleTrans": "病人有急性疼痛。"
+    },
+    {
+      "id": "kaoyan_093",
+      "word": "adapt",
+      "phonetic": "/əˈdæpt/",
+      "meaning": "v. 适应",
+      "example": "We need to adapt to the situation.",
+      "exampleTrans": "我们需要适应情况。"
+    },
+    {
+      "id": "kaoyan_094",
+      "word": "add",
+      "phonetic": "/æd/",
+      "meaning": "v. 添加",
+      "example": "Please add salt.",
+      "exampleTrans": "请加盐。"
+    },
+    {
+      "id": "kaoyan_095",
+      "word": "addict",
+      "phonetic": "/ˈædɪkt/",
+      "meaning": "n. 上瘾者",
+      "example": "He is a drug addict.",
+      "exampleTrans": "他是个吸毒者。"
+    },
+    {
+      "id": "kaoyan_096",
+      "word": "addition",
+      "phonetic": "/əˈdɪʃn/",
+      "meaning": "n. 增加",
+      "example": "In addition to English.",
+      "exampleTrans": "除了英语。"
+    },
+    {
+      "id": "kaoyan_097",
+      "word": "additional",
+      "phonetic": "/əˈdɪʃənl/",
+      "meaning": "adj. 额外的",
+      "example": "Additional funding is needed.",
+      "exampleTrans": "需要额外资金。"
+    },
+    {
+      "id": "kaoyan_098",
+      "word": "address",
+      "phonetic": "/əˈdres/",
+      "meaning": "n. 地址",
+      "example": "Please write your address.",
+      "exampleTrans": "请写下地址。"
+    },
+    {
+      "id": "kaoyan_099",
+      "word": "adequate",
+      "phonetic": "/ˈædɪkwət/",
+      "meaning": "adj. 足够的",
+      "example": "The food was adequate.",
+      "exampleTrans": "食物是足够的。"
+    },
+    {
+      "id": "kaoyan_100",
+      "word": "adhere",
+      "phonetic": "/ədˈhɪr/",
+      "meaning": "v. 坚持",
+      "example": "We must adhere to rules.",
+      "exampleTrans": "我们必须遵守规则。"
+    },
+    {
+      "id": "kaoyan_101",
+      "word": "adjacent",
+      "phonetic": "/əˈdʒeɪsnt/",
+      "meaning": "adj. 邻近的",
+      "example": "The houses are adjacent.",
+      "exampleTrans": "房子相邻。"
+    },
+    {
+      "id": "kaoyan_102",
+      "word": "adjective",
+      "phonetic": "/ˈædʒɪktɪv/",
+      "meaning": "n. 形容词",
+      "example": "Red is an adjective.",
+      "exampleTrans": "Red是形容词。"
+    },
+    {
+      "id": "kaoyan_103",
+      "word": "adjust",
+      "phonetic": "/əˈdʒʌst/",
+      "meaning": "v. 调整",
+      "example": "It takes time to adjust.",
+      "exampleTrans": "调整需要时间。"
+    },
+    {
+      "id": "kaoyan_104",
+      "word": "administer",
+      "phonetic": "/ədˈmɪnɪstər/",
+      "meaning": "v. 管理",
+      "example": "The test was administered.",
+      "exampleTrans": "测试被执行了。"
+    },
+    {
+      "id": "kaoyan_105",
+      "word": "administration",
+      "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+      "meaning": "n. 管理",
+      "example": "He works in administration.",
+      "exampleTrans": "他从事管理工作。"
+    },
+    {
+      "id": "kaoyan_106",
+      "word": "admire",
+      "phonetic": "/ədˈmaɪər/",
+      "meaning": "v. 钦佩",
+      "example": "I admire her courage.",
+      "exampleTrans": "我钦佩她的勇气。"
+    },
+    {
+      "id": "kaoyan_107",
+      "word": "admission",
+      "phonetic": "/ədˈmɪʃn/",
+      "meaning": "n. 准许进入",
+      "example": "Admission is free.",
+      "exampleTrans": "入场是免费的。"
+    },
+    {
+      "id": "kaoyan_108",
+      "word": "admit",
+      "phonetic": "/ədˈmɪt/",
+      "meaning": "v. 承认",
+      "example": "He admitted his mistake.",
+      "exampleTrans": "他承认了他的错误。"
+    },
+    {
+      "id": "kaoyan_109",
+      "word": "adolescent",
+      "phonetic": "/ˌædəˈlesnt/",
+      "meaning": "n. 青少年",
+      "example": "Adolescents often rebel.",
+      "exampleTrans": "青少年经常反抗。"
+    },
+    {
+      "id": "kaoyan_110",
+      "word": "adopt",
+      "phonetic": "/əˈdɑːpt/",
+      "meaning": "v. 采用",
+      "example": "They decided to adopt.",
+      "exampleTrans": "他们决定收养。"
+    },
+    {
+      "id": "kaoyan_111",
+      "word": "adore",
+      "phonetic": "/əˈdɔːr/",
+      "meaning": "v. 崇拜",
+      "example": "She adores her grandchildren.",
+      "exampleTrans": "她非常喜欢孙辈。"
+    },
+    {
+      "id": "kaoyan_112",
+      "word": "adult",
+      "phonetic": "/əˈdʌlt/",
+      "meaning": "n. 成年人",
+      "example": "Children must be with an adult.",
+      "exampleTrans": "儿童必须由成人陪同。"
+    },
+    {
+      "id": "kaoyan_113",
+      "word": "advance",
+      "phonetic": "/ədˈvæns/",
+      "meaning": "v. 前进",
+      "example": "Medical science has advanced.",
+      "exampleTrans": "医学进步了。"
+    },
+    {
+      "id": "kaoyan_114",
+      "word": "advanced",
+      "phonetic": "/ədˈvænst/",
+      "meaning": "adj. 高级的",
+      "example": "She is taking an advanced course.",
+      "exampleTrans": "她在修高级课程。"
+    },
+    {
+      "id": "kaoyan_115",
+      "word": "advantage",
+      "phonetic": "/ədˈvæntɪdʒ/",
+      "meaning": "n. 优势",
+      "example": "His height gives advantage.",
+      "exampleTrans": "他的身高给了优势。"
+    },
+    {
+      "id": "kaoyan_116",
+      "word": "adventure",
+      "phonetic": "/ədˈventʃər/",
+      "meaning": "n. 冒险",
+      "example": "Life is an adventure.",
+      "exampleTrans": "生活就是冒险。"
+    },
+    {
+      "id": "kaoyan_117",
+      "word": "adverb",
+      "phonetic": "/ˈædvɜːrb/",
+      "meaning": "n. 副词",
+      "example": "Quickly is an adverb.",
+      "exampleTrans": "Quickly是副词。"
+    },
+    {
+      "id": "kaoyan_118",
+      "word": "adverse",
+      "phonetic": "/ədˈvɜːrs/",
+      "meaning": "adj. 不利的",
+      "example": "The decision had adverse effects.",
+      "exampleTrans": "决定有不良影响。"
+    },
+    {
+      "id": "kaoyan_119",
+      "word": "advertise",
+      "phonetic": "/ˈædvərtaɪz/",
+      "meaning": "v. 做广告",
+      "example": "They advertised the job.",
+      "exampleTrans": "他们做了招聘广告。"
+    },
+    {
+      "id": "kaoyan_120",
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meaning": "n. 建议",
+      "example": "Let me give you advice.",
+      "exampleTrans": "让我给你建议。"
+    },
+    {
+      "id": "kaoyan_121",
+      "word": "advisable",
+      "phonetic": "/ədˈvaɪzəbl/",
+      "meaning": "adj. 明智的",
+      "example": "It is advisable to book early.",
+      "exampleTrans": "提前预订是明智的。"
+    },
+    {
+      "id": "kaoyan_122",
+      "word": "advise",
+      "phonetic": "/ədˈvaɪz/",
+      "meaning": "v. 建议",
+      "example": "I advise you to study hard.",
+      "exampleTrans": "我建议你努力学习。"
+    },
+    {
+      "id": "kaoyan_123",
+      "word": "advocate",
+      "phonetic": "/ˈædvəkeɪt/",
+      "meaning": "v. 提倡",
+      "example": "She advocates for rights.",
+      "exampleTrans": "她倡导权利。"
+    },
+    {
+      "id": "kaoyan_124",
+      "word": "aerial",
+      "phonetic": "/ˈeriəl/",
+      "meaning": "adj. 空中的",
+      "example": "We took an aerial photograph.",
+      "exampleTrans": "我们拍了航拍照片。"
+    },
+    {
+      "id": "kaoyan_125",
+      "word": "aesthetic",
+      "phonetic": "/esˈθetɪk/",
+      "meaning": "adj. 美学的",
+      "example": "The building has aesthetic appeal.",
+      "exampleTrans": "建筑有美学吸引力。"
+    },
+    {
+      "id": "kaoyan_126",
+      "word": "affair",
+      "phonetic": "/əˈfer/",
+      "meaning": "n. 事情",
+      "example": "The party was a boring affair.",
+      "exampleTrans": "聚会很无聊。"
+    },
+    {
+      "id": "kaoyan_127",
+      "word": "affect",
+      "phonetic": "/əˈfekt/",
+      "meaning": "v. 影响",
+      "example": "The disease affects old people.",
+      "exampleTrans": "疾病影响老人。"
+    },
+    {
+      "id": "kaoyan_128",
+      "word": "affection",
+      "phonetic": "/əˈfekʃn/",
+      "meaning": "n. 喜爱",
+      "example": "She has deep affection.",
+      "exampleTrans": "她有深厚的感情。"
+    },
+    {
+      "id": "kaoyan_129",
+      "word": "affiliate",
+      "phonetic": "/əˈfɪlieɪt/",
+      "meaning": "v. 使隶属",
+      "example": "The hospital is affiliated.",
+      "exampleTrans": "医院隶属于大学。"
+    },
+    {
+      "id": "kaoyan_130",
+      "word": "affirm",
+      "phonetic": "/əˈfɜːrm/",
+      "meaning": "v. 肯定",
+      "example": "I affirm that this is true.",
+      "exampleTrans": "我断言这是真的。"
+    },
+    {
+      "id": "kaoyan_131",
+      "word": "affluent",
+      "phonetic": "/ˈæfluənt/",
+      "meaning": "adj. 富裕的",
+      "example": "He comes from an affluent family.",
+      "exampleTrans": "他来自富裕家庭。"
+    },
+    {
+      "id": "kaoyan_132",
+      "word": "afford",
+      "phonetic": "/əˈfɔːrd/",
+      "meaning": "v. 买得起",
+      "example": "I cannot afford a new car.",
+      "exampleTrans": "我买不起新车。"
+    },
+    {
+      "id": "kaoyan_133",
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meaning": "adj. 害怕的",
+      "example": "Do not be afraid.",
+      "exampleTrans": "不要害怕。"
+    },
+    {
+      "id": "kaoyan_134",
+      "word": "afterward",
+      "phonetic": "/ˈæftərwərd/",
+      "meaning": "adv. 后来",
+      "example": "Afterward, we went for coffee.",
+      "exampleTrans": "之后我们去喝咖啡了。"
+    },
+    {
+      "id": "kaoyan_135",
+      "word": "agency",
+      "phonetic": "/ˈeɪdʒənsi/",
+      "meaning": "n. 代理，机构",
+      "example": "I work for a travel agency.",
+      "exampleTrans": "我在旅行社工作。"
+    },
+    {
+      "id": "kaoyan_136",
+      "word": "agenda",
+      "phonetic": "/əˈdʒendə/",
+      "meaning": "n. 议程",
+      "example": "What is on the agenda today?",
+      "exampleTrans": "今天的议程是什么？"
+    },
+    {
+      "id": "kaoyan_137",
+      "word": "agent",
+      "phonetic": "/ˈeɪdʒənt/",
+      "meaning": "n. 代理人",
+      "example": "He is a real estate agent.",
+      "exampleTrans": "他是房地产经纪人。"
+    },
+    {
+      "id": "kaoyan_138",
+      "word": "aggravate",
+      "phonetic": "/ˈæɡrəveɪt/",
+      "meaning": "v. 加重",
+      "example": "His temper aggravated the situation.",
+      "exampleTrans": "他的脾气使情况恶化。"
+    },
+    {
+      "id": "kaoyan_139",
+      "word": "aggressive",
+      "phonetic": "/əˈɡresɪv/",
+      "meaning": "adj. 侵略的",
+      "example": "Dogs can be aggressive.",
+      "exampleTrans": "狗可能有攻击性。"
+    },
+    {
+      "id": "kaoyan_140",
+      "word": "agitate",
+      "phonetic": "/ˈædʒɪteɪt/",
+      "meaning": "v. 鼓动",
+      "example": "The news agitated her.",
+      "exampleTrans": "消息使她焦虑。"
+    },
+    {
+      "id": "kaoyan_141",
+      "word": "agony",
+      "phonetic": "/ˈæɡəni/",
+      "meaning": "n. 痛苦",
+      "example": "He was in agony after the accident.",
+      "exampleTrans": "事故后他痛苦不堪。"
+    },
+    {
+      "id": "kaoyan_142",
+      "word": "agree",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "v. 同意",
+      "example": "I agree with you.",
+      "exampleTrans": "我同意你的看法。"
+    },
+    {
+      "id": "kaoyan_143",
+      "word": "agreeable",
+      "phonetic": "/əˈɡriːəbl/",
+      "meaning": "adj. 愉快的",
+      "example": "She is an agreeable person.",
+      "exampleTrans": "她是个随和的人。"
+    },
+    {
+      "id": "kaoyan_144",
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "meaning": "n. 协议",
+      "example": "We signed an agreement.",
+      "exampleTrans": "我们签署了协议。"
+    },
+    {
+      "id": "kaoyan_145",
+      "word": "agriculture",
+      "phonetic": "/ˈæɡrɪkʌltʃər/",
+      "meaning": "n. 农业",
+      "example": "Agriculture is the main industry.",
+      "exampleTrans": "农业是主要产业。"
+    },
+    {
+      "id": "kaoyan_146",
+      "word": "ahead",
+      "phonetic": "/əˈhed/",
+      "meaning": "adv. 向前",
+      "example": "Go ahead, I am listening.",
+      "exampleTrans": "说吧，我在听。"
+    },
+    {
+      "id": "kaoyan_147",
+      "word": "aid",
+      "phonetic": "/eɪd/",
+      "meaning": "n./v. 帮助",
+      "example": "The country needs foreign aid.",
+      "exampleTrans": "这个国家需要外援。"
+    },
+    {
+      "id": "kaoyan_148",
+      "word": "aim",
+      "phonetic": "/eɪm/",
+      "meaning": "n./v. 目标",
+      "example": "What is your aim in life?",
+      "exampleTrans": "你的人生目标是什么？"
+    },
+    {
+      "id": "kaoyan_149",
+      "word": "air",
+      "phonetic": "/er/",
+      "meaning": "n. 空气",
+      "example": "Open the window for fresh air.",
+      "exampleTrans": "打开窗户透透气。"
+    },
+    {
+      "id": "kaoyan_150",
+      "word": "aircraft",
+      "phonetic": "/ˈerkræft/",
+      "meaning": "n. 飞机",
+      "example": "Military aircraft flew overhead.",
+      "exampleTrans": "军用飞机从头顶飞过。"
+    },
+    {
+      "id": "kaoyan_151",
+      "word": "airline",
+      "phonetic": "/ˈerlaɪn/",
+      "meaning": "n. 航空公司",
+      "example": "Which airline are you flying?",
+      "exampleTrans": "你坐哪家航空公司？"
+    },
+    {
+      "id": "kaoyan_152",
+      "word": "airport",
+      "phonetic": "/ˈerpɔːrt/",
+      "meaning": "n. 机场",
+      "example": "I will meet you at the airport.",
+      "exampleTrans": "我会在机场接你。"
+    },
+    {
+      "id": "kaoyan_153",
+      "word": "alarm",
+      "phonetic": "/əˈlɑːrm/",
+      "meaning": "n. 警报",
+      "example": "The alarm went off.",
+      "exampleTrans": "警报响了。"
+    },
+    {
+      "id": "kaoyan_154",
+      "word": "album",
+      "phonetic": "/ˈælbəm/",
+      "meaning": "n. 相册",
+      "example": "She released a new album.",
+      "exampleTrans": "她发行了新专辑。"
+    }
+  ]
+}

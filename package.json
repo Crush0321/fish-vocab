@@ -1,0 +1,137 @@
+{
+  "name": "fish-vocab",
+  "displayName": "摸鱼背单词",
+  "description": "隐蔽背单词，Alt+←上一词，Alt+→下一词，Ctrl+Alt+E老板键一键隐藏",
+  "version": "1.0.0",
+  "publisher": "crush-studio",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "keywords": ["english", "vocabulary", "word", "learning", "背单词", "english-learning"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/fish-vocab"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other",
+    "Education"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "fishVocab.previousWord",
+        "title": "上一个单词",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.nextWord",
+        "title": "下一个单词",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.toggleBossKey",
+        "title": "老板键（隐藏/恢复）",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.selectWordbook",
+        "title": "选择词库",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.showDetail",
+        "title": "显示单词详情",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.markMastered",
+        "title": "标记为已掌握",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.addToFavorites",
+        "title": "加入生词本",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.viewFavorites",
+        "title": "查看生词本",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.showStats",
+        "title": "学习统计",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.startReview",
+        "title": "开始复习",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.switchDisplayMode",
+        "title": "切换显示模式",
+        "category": "摸鱼背单词"
+      },
+      {
+        "command": "fishVocab.toggleConsole",
+        "title": "显示/隐藏控制台",
+        "category": "摸鱼背单词"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "fishVocab.previousWord",
+        "key": "alt+left",
+        "mac": "alt+left"
+      },
+      {
+        "command": "fishVocab.nextWord",
+        "key": "alt+right",
+        "mac": "alt+right"
+      },
+      {
+        "command": "fishVocab.toggleBossKey",
+        "key": "ctrl+alt+e",
+        "mac": "cmd+alt+e"
+      },
+      {
+        "command": "fishVocab.showDetail",
+        "key": "alt+down",
+        "mac": "alt+down"
+      }
+    ],
+    "configuration": {
+      "title": "摸鱼背单词",
+      "properties": {
+        "fishVocab.wordbook": {
+          "type": "string",
+          "default": "cet4",
+          "enum": [
+            "cet4",
+            "cet6",
+            "kaoyan"
+          ],
+          "description": "当前使用的词库"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "devDependencies": {
+    "@types/node": "20.x",
+    "@types/vscode": "^1.80.0",
+    "@vscode/vsce": "^3.7.1",
+    "typescript": "^5.3.0"
+  }
+}
