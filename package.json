@@ -2,14 +2,14 @@
   "name": "fish-vocab",
   "displayName": "摸鱼背单词",
   "description": "隐蔽背单词，Alt+←上一词，Alt+→下一词，Ctrl+Alt+E老板键一键隐藏",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "crush-studio",
   "license": "MIT",
   "icon": "assets/icon.png",
   "keywords": ["english", "vocabulary", "word", "learning", "背单词", "english-learning"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/fish-vocab"
+    "url": "https://github.com/Crush0321/fish-vocab"
   },
   "engines": {
     "vscode": "^1.80.0"
