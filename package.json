@@ -2,7 +2,7 @@
   "name": "fish-vocab",
   "displayName": "摸鱼背单词",
   "description": "隐蔽背单词，Alt+←上一词，Alt+→下一词，Ctrl+Alt+E老板键一键隐藏",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "crush-studio",
   "license": "MIT",
   "icon": "assets/icon.png",

@@ -15,53 +15,6 @@ export class ConsoleManager {
     private isVisible: boolean = false;
     private isBossMode: boolean = false;
     
-    // 伪装日志模板
-    private readonly logTemplates = [
-        // 模板1: 模块加载风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            return `[${time}] [INFO] Module "${word.word}" loaded successfully`;
-        },
-        // 模板2: 变量初始化风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            return `[${time}] [DEBUG] Variable "${word.phonetic}" initialized`;
-        },
-        // 模板3: 配置信息风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            return `[${time}] [CONFIG] ${word.meaning}`;
-        },
-        // 模板4: 内存/状态风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            const example = word.example ? ` | ${word.example.substring(0, 50)}` : '';
-            return `[${time}] [STATUS] ${word.word}=${word.phonetic}${example}`;
-        },
-        // 模板5: 网络请求风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            const id = Math.floor(Math.random() * 9000) + 1000;
-            return `[${time}] [HTTP] Request #${id}: ${word.word} -> ${word.meaning.substring(0, 30)}`;
-        },
-        // 模板6: 构建输出风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            return `[${time}] [BUILD] Compiling "${word.word}"... ${word.phonetic}`;
-        },
-        // 模板7: 数据库风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            const status = record?.status === 'mastered' ? 'cached' : 'fetched';
-            return `[${time}] [DB] Record ${status}: ${word.word} | ${word.meaning.substring(0, 25)}`;
-        },
-        // 模板8: 函数调用风格
-        (word: Word, record: LearningRecord | null) => {
-            const time = new Date().toISOString().split('T')[1].split('.')[0];
-            return `[${time}] [TRACE] ${word.word}(${word.phonetic}) => ${word.meaning.substring(0, 30)}`;
-        }
-    ];
-    
     constructor(wordService: WordService) {
         this.wordService = wordService;
         // 创建一个看起来像调试控制台的输出通道

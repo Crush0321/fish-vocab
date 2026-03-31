@@ -236,7 +236,7 @@ export function activate(context: vscode.ExtensionContext) {
         console.log('[摸鱼背单词] 警告: 没有加载词库');
     }
     
-    console.log('[摸鱼背单词] 插件激活完成！快捷键: Alt+Q上一词 Alt+W下一词 Alt+E老板键');
+    console.log('[摸鱼背单词] 插件激活完成！快捷键: Alt+←上一词 Alt+→下一词 Ctrl+Alt+E老板键');
 }
 
 // 初始化显示模式
@@ -286,17 +286,6 @@ function showWord(word: Word) {
     
     if ((displayMode === 'console' || displayMode === 'both') && consoleManager) {
         consoleManager.showWord(word, record || null);
-    }
-}
-
-// 从状态栏更新控制台
-function updateConsoleFromStatusBar() {
-    if (displayMode === 'console' || displayMode === 'both') {
-        const word = statusBarManager?.getCurrentWord();
-        if (word && consoleManager) {
-            const record = wordService?.getRecord(word.id);
-            consoleManager.showWord(word, record || null);
-        }
     }
 }
 

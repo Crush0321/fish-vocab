@@ -19,7 +19,7 @@ export class StatusBarManager {
             100
         );
         this.statusBarItem.command = 'fishVocab.showDetail';
-        this.statusBarItem.tooltip = '点击 (Alt+D) 查看详情，快捷键：Alt+Q上一词，Alt+W下一词，Alt+E隐藏/恢复';
+        this.statusBarItem.tooltip = '点击 (Alt+↓) 查看详情，快捷键：Alt+←上一词，Alt+→下一词，Ctrl+Alt+E隐藏/恢复';
         
         // 恢复上次的位置
         this.currentIndex = 0;
